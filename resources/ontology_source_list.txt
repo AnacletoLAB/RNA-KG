@@ -1,0 +1,6 @@
+disease, resources/ontologies/mondo_with_imports.owl
+relation, resources/ontologies/ro_with_imports.owl
+chemical, resources/ontologies/chebi_with_imports.owl
+protein, resources/ontologies/pr_with_imports.owl
+gene, resources/ontologies/go_with_imports.owl
+pathway, resources/ontologies/pw_with_imports.owl
