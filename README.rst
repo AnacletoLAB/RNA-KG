@@ -21,6 +21,6 @@ Please cite the following paper if it was useful for your research:
     booktitle = {Bioinformatics and Biomedical Engineering}
   }
 
-.. |metagraph| image:: https://github.com/emanuelecavalleri/RNA-KG/assets/33032169/179c090c-1cbf-4245-9315-0f6eac1c7add
+.. |metagraph| image:: images/metagraph.png
     :target: https://github.com/AnacletoLAB/RNA-KG
     :alt: Metagraph
