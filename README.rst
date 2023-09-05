@@ -22,5 +22,5 @@ Please cite the following paper if it was useful for your research:
   }
 
 .. |metagraph| image:: images/metagraph.png
-    :target: https://github.com/AnacletoLAB/RNA-KG
+    :target: https://github.com/AnacletoLAB/RNA-KG/images/metagraph.png
     :alt: Metagraph
