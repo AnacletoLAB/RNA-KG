@@ -1,0 +1,3774 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="5363"
+   height="2903"
+   viewBox="0 0 5363 2903"
+   version="1.1"
+   id="svg389"
+   sodipodi:docname="EssentialRNA-KG.svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview389"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.15076264"
+     inkscape:cx="2911.8619"
+     inkscape:cy="1847.2746"
+     inkscape:window-width="1792"
+     inkscape:window-height="1120"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g144" />
+  <defs
+     id="defs1">
+    <style
+       type="text/css"
+       id="style1" />
+  </defs>
+  <g
+     transform="translate(4529.126059083877 2606.5985366776304) scale(1)"
+     id="g389">
+    <g
+       class="relationship"
+       id="g5">
+      <g
+         transform="translate(-565.2428709981116 43.386805439876866) rotate(178.92448956546605)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g1">
+        <path
+           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 609.9434771843823 -10 L 985.8392215974806 -10 A 40 40 0 0 1 987.5529825786173 -9.963270928435442 L 1046.3362000723305 -7.442446627872059 L 1046.3362000723305 -7.442446627872059"
+           id="path1" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(1219.8869543687647 0) rotate(2.4555334077035282) translate(-140 0)"
+           stroke="none"
+           id="polygon1" />
+      </g>
+      <g
+         transform="translate(-1174.8911911829225 64.83374124929936) rotate(358.92448956546605) translate(0 8)"
+         id="g4">
+        <g
+           transform="translate(0 0)"
+           id="g3">
+          <g
+             transform="translate(-167.10000610351562 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g2">
+            <rect
+               x="0"
+               y="0"
+               width="334.20001220703125"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect1" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text1">develops into</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g10">
+      <g
+         transform="translate(-1784.9149132852997 66.2842005340869) rotate(-1.0755104345339808)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g6">
+        <path
+           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 609.9434771843823 -10 L 985.8392215974806 -10 A 40 40 0 0 1 987.5529825786173 -9.963270928435442 L 1046.3362000723305 -7.442446627872059 L 1046.3362000723305 -7.442446627872059"
+           id="path5" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(1219.8869543687647 0) rotate(2.4555334077035282) translate(-140 0)"
+           stroke="none"
+           id="polygon5" />
+      </g>
+      <g
+         transform="translate(-1175.2665931004888 44.83726472466427) rotate(-1.0755104345339808) translate(0 -73)"
+         id="g9">
+        <g
+           transform="translate(0 0)"
+           id="g8">
+          <g
+             transform="translate(-177.73333740234375 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g7">
+            <rect
+               x="0"
+               y="0"
+               width="355.4666748046875"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect6" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text6">develops from</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g15">
+      <g
+         transform="translate(-565.2428709981116 43.386805439876866) rotate(-123.09835491504471)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g11">
+        <path
+           d="M 140 0 L 2059.802622297337 0"
+           id="path10" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(2093.512882007781 0) rotate(0)"
+           stroke="none"
+           id="polygon10" />
+      </g>
+      <g
+         transform="rotate(56.901645,284.14097,-1553.6458)"
+         id="g14">
+        <g
+           id="g13">
+          <g
+             transform="translate(-255.66667)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g12">
+            <rect
+               x="0"
+               y="0"
+               width="511.33334"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect11" />
+          </g>
+        </g>
+      </g>
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;paint-order:fill markers stroke"
+         id="path398"
+         sodipodi:type="arc"
+         sodipodi:cx="-1358.5201"
+         sodipodi:cy="-1171.6016"
+         sodipodi:rx="47.266041"
+         sodipodi:ry="39.703476"
+         sodipodi:start="0"
+         sodipodi:end="2.388212"
+         sodipodi:arc-type="slice"
+         d="m -1311.2541,-1171.6016 a 47.266041,39.703476 0 0 1 -29.8795,36.9198 47.266041,39.703476 0 0 1 -51.8615,-9.7583 l 34.475,-27.1615 z" />
+      <text
+         xml:space="preserve"
+         x="-1713.9385"
+         y="513.31073"
+         stroke="none"
+         text-anchor="left"
+         font-family="sans-serif"
+         font-size="55px"
+         font-weight="normal"
+         fill="#000000"
+         id="text11"
+         transform="rotate(56.901645)"><tspan
+   style="font-size:53.3333px"
+   id="tspan397">regulates activity of </tspan> </text>
+    </g>
+    <g
+       class="relationship"
+       id="g20">
+      <g
+         transform="translate(-1784.9149132852997 66.2842005340869) rotate(-90)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g16">
+        <path
+           d="M 140 0 L 1720.2777006311308 0"
+           id="path15" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(1753.9879603415748 0) rotate(0)"
+           stroke="none"
+           id="polygon15" />
+      </g>
+      <g
+         transform="translate(-1784.9149132852997 -863.8546497814784) rotate(0) translate(0 -32.5)"
+         id="g19">
+        <g
+           transform="translate(0 0)"
+           id="g18">
+          <g
+             transform="translate(-240.39999389648438 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g17">
+            <rect
+               x="0"
+               y="0"
+               width="480.79998779296875"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect16" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text16">regulates activity of</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g25">
+      <g
+         transform="translate(-1784.9149132852997 66.2842005340869) rotate(-126.0961058766608)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g21">
+        <path
+           d="M 140 0 L 770.997680729022 0"
+           id="path20" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(804.7079404394661 0) rotate(0)"
+           stroke="none"
+           id="polygon20" />
+      </g>
+      <g
+         transform="translate(-2053.26815635255 -301.77249415941225) rotate(53.9038941233392) translate(0 -32.5)"
+         id="g24">
+        <g
+           transform="translate(0 0)"
+           id="g23">
+          <g
+             transform="translate(-255.6666717529297 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g22">
+            <rect
+               x="0"
+               y="0"
+               width="511.3333435058594"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect21" />
+          </g>
+        </g>
+      </g>
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;paint-order:fill markers stroke"
+         id="path399"
+         sodipodi:type="arc"
+         sodipodi:cx="-1906.5133"
+         sodipodi:cy="-111.55895"
+         sodipodi:rx="35.573326"
+         sodipodi:ry="35.573326"
+         sodipodi:start="0"
+         sodipodi:end="2.388212"
+         sodipodi:arc-type="slice"
+         d="m -1870.94,-111.55895 a 35.573326,35.573326 0 0 1 -22.4878,33.079177 35.573326,35.573326 0 0 1 -39.032,-8.743166 l 25.9465,-24.336011 z" />
+      <text
+         xml:space="preserve"
+         x="-1709.908"
+         y="1495.2086"
+         stroke="none"
+         text-anchor="left"
+         font-family="sans-serif"
+         font-size="55"
+         font-weight="normal"
+         fill="#000000"
+         id="text21"
+         style="font-size:53.3333px"
+         transform="rotate(53.903894)">regulates activity of  </text>
+    </g>
+    <g
+       class="relationship"
+       id="g30">
+      <g
+         transform="translate(314.59456066367943 -452.3822687750504) rotate(166.12339281673536)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g26">
+        <path
+           d="M 140 0 L 2022.6268604609363 0"
+           id="path25" />
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g35">
+      <g
+         stroke-width="8"
+         stroke="#000000"
+         id="g31">
+        <path
+           d="M -434.06156961989194 -5.515813802007401 L 288.5667375899321 -274.90189695270203 A 40 40 0 0 0 314.59456066367943 -312.3822687750504 L 314.59456066367943 -312.3822687750504 L 314.59456066367943 -312.3822687750504"
+           id="path30"
+           style="fill:none" />
+      </g>
+      <g
+         transform="rotate(-20.444776,-519.93447,113.44577)"
+         id="g34">
+        <g
+           id="g33">
+          <g
+             transform="translate(-180.75)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g32">
+            <rect
+               x="0"
+               y="0"
+               width="361.5"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect31" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g40">
+      <g
+         transform="translate(-1784.9149132852997 66.2842005340869) rotate(-179.99999999999997)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g36">
+        <path
+           d="M 140 0 L 580.9760263843643 0"
+           id="path35" />
+      </g>
+      <g
+         transform="translate(-2145.4029264774817 66.28420053408671) rotate(2.5444437451708134e-14) translate(0 -32.5)"
+         id="g39">
+        <g
+           transform="translate(0 0)"
+           id="g38">
+          <g
+             transform="translate(-180.75 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g37">
+            <rect
+               x="0"
+               y="0"
+               width="361.5"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect36" />
+            <text
+               xml:space="preserve"
+               x="-1.1706657"
+               y="49.877934"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55px"
+               font-weight="normal"
+               fill="#000000"
+               id="text36"><tspan
+   style="font-size:53.3333px"
+   id="tspan392">interacts with</tspan>  </text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g45">
+      <g
+         transform="translate(-2535.890939669664 66.28420053408664) rotate(180)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g41">
+        <path
+           d="M 169.89412863785014 -5.998754402842493 L 282.5101605162091 -9.97508909125886 A 40 40 0 0 1 283.9216321404073 -10 L 531.2870030535587 -10 L 828.5262733358333 -10 A 40 40 0 0 1 830.24003431697 -9.963270928435442 L 889.0232518106833 -7.442446627872059 L 889.0232518106833 -7.442446627872059"
+           id="path40" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(1062.5740061071174 0) rotate(2.4555334077035282) translate(-140 0)"
+           stroke="none"
+           id="polygon40" />
+      </g>
+      <g
+         transform="translate(-3082.1779427232227 76.28420053408671) rotate(360) translate(0 8)"
+         id="g44">
+        <g
+           transform="translate(0 0)"
+           id="g43">
+          <g
+             transform="translate(-177.73333740234375 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g42">
+            <rect
+               x="0"
+               y="0"
+               width="355.4666748046875"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect41" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text41">develops from</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g50">
+      <g
+         transform="translate(-3598.4649457767814 66.2842005340869) rotate(-1.455919106031566e-14)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g46">
+        <path
+           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 531.2870030535587 -10 L 778.65237396671 -10 A 40 40 0 0 1 780.0638455909083 -9.97508909125886 L 858.9906115889053 -7.188281278483615 L 858.9906115889053 -7.188281278483615"
+           id="path45" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(1062.5740061071174 0) rotate(2.0222039828146703) translate(-170 0)"
+           stroke="none"
+           id="polygon45" />
+      </g>
+      <g
+         transform="translate(-3082.1779427232227 56.28420053408678) rotate(-1.455919106031566e-14) translate(0 -73)"
+         id="g49">
+        <g
+           transform="translate(0 0)"
+           id="g48">
+          <g
+             transform="translate(-167.10000610351562 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g47">
+            <rect
+               x="0"
+               y="0"
+               width="334.20001220703125"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect46" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text46">develops into</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g55">
+      <g
+         transform="translate(-3598.4649457767814 66.2842005340869) rotate(-47.65486481602728)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g51">
+        <path
+           d="M 140 0 L 853.9579874239163 0"
+           id="path50" />
+      </g>
+      <g
+         transform="translate(-3263.7024030604143 -301.03331903858884) rotate(0) translate(0 -32.5)"
+         id="g54">
+        <g
+           transform="translate(0 0)"
+           id="g53">
+          <g
+             transform="translate(-312.2166748046875 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g52">
+            <rect
+               x="0"
+               y="0"
+               width="624.433349609375"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect51" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text51">molecularly interacts with</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g60">
+      <g
+         transform="translate(-3598.4649457767814 -1608.9482126771727) rotate(112.05582999305398)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g56">
+        <path
+           d="M 140 0 L 1107.8884263705022 0"
+           id="path55" />
+      </g>
+      <g
+         transform="translate(-3832.762161976228 -1030.6652407261115) rotate(0) translate(6.761631601831789 -102.99315360132107)"
+         id="g59">
+        <g
+           transform="translate(0 0)"
+           id="g58">
+          <g
+             transform="translate(-361.5 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g57">
+            <rect
+               x="0"
+               y="0"
+               width="361.5"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect56" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text56">interacts with  </text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g65">
+      <g
+         transform="translate(-3598.4649457767814 -1608.9482126771727) rotate(28.57915410731716)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g61">
+        <path
+           d="M 140 0 L 3314.0768907221054 0"
+           id="path60" />
+      </g>
+      <g
+         transform="translate(-2081.8539083874466 -782.7807036186479) rotate(28.57915410731716) translate(0 -32.5)"
+         id="g64">
+        <g
+           transform="translate(0 0)"
+           id="g63">
+          <g
+             transform="translate(-165.48333740234375 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g62">
+            <rect
+               x="0"
+               y="0"
+               width="330.9666748046875"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect61" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g70">
+      <g
+         transform="translate(-3598.4649457767814 -1608.9482126771727) rotate(42.72961840502262)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g66">
+        <path
+           d="M 140 0 L 2328.879778082253 0"
+           id="path65" />
+      </g>
+      <path
+         style="fill:#fffdff;fill-opacity:1;stroke:none;stroke-width:5;paint-order:fill markers stroke"
+         id="path393"
+         sodipodi:type="arc"
+         sodipodi:cx="1533.4568"
+         sodipodi:cy="2118.7576"
+         sodipodi:rx="40.109325"
+         sodipodi:ry="25.711107"
+         sodipodi:start="0"
+         sodipodi:end="2.388212"
+         sodipodi:arc-type="slice"
+         d="m 1573.5661,2118.7576 a 40.109325,25.711107 0 0 1 -25.3553,23.9084 40.109325,25.711107 0 0 1 -44.009,-6.3192 l 29.255,-17.5892 z"
+         transform="rotate(140)" />
+      <g
+         transform="rotate(42.729618,-318.84677,-3808.1416)"
+         id="g69">
+        <g
+           id="g68">
+          <g
+             transform="translate(-180.75)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g67">
+            <rect
+               x="0"
+               y="0"
+               width="361.5"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect66" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821045"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55px"
+               font-weight="normal"
+               fill="#000000"
+               id="text66">interacts with  </text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g75">
+      <g
+         stroke-width="8"
+         stroke="#000000"
+         id="g71"
+         style="fill:none">
+        <path
+           d="m -3738.4649,-1608.9482 v 0 c -31.0175,0.064 -39.1778,-16.0723 -40,-40 v -50 -50 c 0,-22.0914 17.9086,-40 40,-40 h 50 50 c 22.0913,0 40,17.9086 40,40 v 0 0"
+           id="path70"
+           style="fill:none"
+           sodipodi:nodetypes="csccsscsscc" />
+      </g>
+      <g
+         transform="translate(-3811.2789,-1731.4482)"
+         id="g74">
+        <g
+           id="g73">
+          <g
+             transform="translate(-361.5)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g72">
+            <rect
+               x="0"
+               y="0"
+               width="361.5"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect71" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821045"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55px"
+               font-weight="normal"
+               fill="#000000"
+               id="text71">interacts with  </text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g80">
+      <g
+         transform="translate(-3598.4649457767814 -1608.9482126771727) rotate(16.46586893750648)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g76">
+        <path
+           d="M 140 0 L 3940.4018777000715 0"
+           id="path75" />
+      </g>
+      <g
+         transform="rotate(16.465869,2847.9651,-6158.2106)"
+         id="g79">
+        <g
+           id="g78">
+          <g
+             transform="translate(-180.75)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g77">
+            <rect
+               x="0"
+               y="0"
+               width="361.5"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect76" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g85">
+      <g
+         transform="translate(-3598.4649457767814 -1608.9482126771727) rotate(-59.999999999999986)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g81">
+        <path
+           d="M 140 0 L 460.5204122608736 0"
+           id="path80" />
+      </g>
+      <g
+         transform="translate(-3448.334842711563 -1868.981178931683) rotate(0) translate(0 -32.5)"
+         id="g84">
+        <g
+           transform="translate(0 0)"
+           id="g83">
+          <g
+             transform="translate(-165.48333740234375 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g82">
+            <rect
+               x="0"
+               y="0"
+               width="330.9666748046875"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect81" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text81">interacts with</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g90">
+      <g
+         transform="translate(-3598.4649457767814 -1608.9482126771727) rotate(-24.046359482349875)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g86">
+        <path
+           d="M 140 0 L 600.5268767979575 0"
+           id="path85" />
+      </g>
+      <g
+         transform="translate(-3260.334428287316 -1759.8215600826718) rotate(0) translate(0 -32.5)"
+         id="g89">
+        <g
+           transform="translate(0 0)"
+           id="g88">
+          <g
+             transform="translate(-165.48333740234375 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g87">
+            <rect
+               x="0"
+               y="0"
+               width="330.9666748046875"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect86" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text86">interacts with</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g95">
+      <g
+         transform="translate(-3598.4649457767814 -1608.9482126771727) rotate(-6.877950077074496)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g91">
+        <path
+           d="M 140 0 L 1686.6958448932153 0"
+           id="path90" />
+      </g>
+      <g
+         transform="translate(-2691.6899295310404 -1718.3259862423301) rotate(-6.877950077074496) translate(0 -32.5)"
+         id="g94">
+        <g
+           transform="translate(0 0)"
+           id="g93">
+          <g
+             transform="translate(-165.48333740234375 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g92">
+            <rect
+               x="0"
+               y="0"
+               width="330.9666748046875"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect91" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g100">
+      <g
+         transform="translate(-3598.4649457767814 -1608.9482126771727) rotate(90)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g96">
+        <path
+           d="M 140 0 L 1535.2324132112597 0"
+           id="path95" />
+      </g>
+      <g
+         transform="translate(-3598.4649457767814 -771.3320060715429) rotate(0) translate(0 -32.5)"
+         id="g99">
+        <g
+           transform="translate(0 0)"
+           id="g98">
+          <g
+             transform="translate(-165.48333740234375 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g97">
+            <rect
+               x="0"
+               y="0"
+               width="330.9666748046875"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect96" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text96">interacts with</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g105">
+      <g
+         transform="translate(-3598.4649457767814 -1608.9482126771727) rotate(35.72888148785869)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g101">
+        <path
+           d="M 140 0 L 1373.8963527316128 0"
+           id="path100" />
+      </g>
+      <g
+         transform="translate(-2983.982535232384 -1166.9279542782315) rotate(35.72888148785869) translate(0 -32.5)"
+         id="g104">
+        <g
+           transform="translate(0 0)"
+           id="g103">
+          <g
+             transform="translate(-180.75 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g102">
+            <rect
+               x="0"
+               y="0"
+               width="361.5"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect101" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g110">
+      <g
+         transform="translate(314.59456066367943 -452.3822687750504) rotate(180)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g106">
+        <path
+           d="M 140 0 L 4241.653938839354 0"
+           id="path105" />
+      </g>
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;paint-order:fill markers stroke"
+         id="path400"
+         sodipodi:type="arc"
+         sodipodi:cx="-740.81122"
+         sodipodi:cy="1548.6195"
+         sodipodi:rx="11.653332"
+         sodipodi:ry="66.853325"
+         sodipodi:start="0"
+         sodipodi:end="2.388212"
+         sodipodi:arc-type="slice"
+         d="m -729.15789,1548.6195 a 11.653332,66.853325 0 0 1 -7.36671,62.1661 11.653332,66.853325 0 0 1 -12.78633,-16.4312 l 8.49971,-45.7349 z"
+         transform="rotate(80)" />
+      <g
+         transform="translate(-1853.8028,-484.33191)"
+         id="g109">
+        <g
+           id="g108">
+          <g
+             transform="translate(-180.75)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g107">
+            <rect
+               x="0"
+               y="0"
+               width="361.5"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect106" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821045"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55px"
+               font-weight="normal"
+               fill="#000000"
+               id="text106">interacts with  </text>
+          </g>
+        </g>
+      </g>
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;paint-order:fill markers stroke"
+         id="path401"
+         sodipodi:type="arc"
+         sodipodi:cx="-1929.6725"
+         sodipodi:cy="-720.43652"
+         sodipodi:rx="56.030846"
+         sodipodi:ry="52.883045"
+         sodipodi:start="0"
+         sodipodi:end="2.388212"
+         sodipodi:arc-type="slice"
+         d="m -1873.6416,-720.43652 a 56.030846,52.883045 0 0 1 -35.4202,49.17526 56.030846,52.883045 0 0 1 -61.4785,-12.99753 l 40.8678,-36.17773 z" />
+    </g>
+    <g
+       class="relationship"
+       id="g115">
+      <g
+         transform="translate(-1784.9149132852997 66.2842005340869) rotate(-38.58693017076733)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g111">
+        <path
+           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 1342.9765140793731 -10 L 2451.9052953874625 -10 A 40 40 0 0 1 2453.6190563685996 -9.963270928435442 L 2512.402273862312 -7.442446627872059 L 2512.402273862312 -7.442446627872059"
+           id="path110" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(2685.9530281587463 0) rotate(2.4555334077035282) translate(-140 0)"
+           stroke="none"
+           id="polygon110" />
+      </g>
+      <g
+         transform="translate(-741.397189377117 -779.1486337338226) rotate(-38.58693017076733) translate(0 -73)"
+         id="g114">
+        <g
+           transform="translate(0 0)"
+           id="g113">
+          <g
+             transform="translate(-408.6000061035156 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g112">
+            <rect
+               x="0"
+               y="0"
+               width="817.2000122070312"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect111" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text111">is up/downstream of sequence of</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g120">
+      <g
+         transform="translate(314.59456066367943 -1608.9482126771727) rotate(141.41306982923268)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g116">
+        <path
+           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 1342.9765140793731 -10 L 2451.9052953874625 -10 A 40 40 0 0 1 2453.6190563685996 -9.963270928435442 L 2512.402273862312 -7.442446627872059 L 2512.402273862312 -7.442446627872059"
+           id="path115" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(2685.9530281587463 0) rotate(2.4555334077035282) translate(-140 0)"
+           stroke="none"
+           id="polygon115" />
+      </g>
+      <g
+         transform="translate(-728.9231632445033 -763.5153784092631) rotate(321.4130698292327) translate(0 8)"
+         id="g119">
+        <g
+           transform="translate(0 0)"
+           id="g118">
+          <g
+             transform="translate(-408.6000061035156 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g117">
+            <rect
+               x="0"
+               y="0"
+               width="817.2000122070312"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect116" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text116">is down/upstream of sequence of</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g125">
+      <g
+         stroke-width="8"
+         stroke="#000000"
+         id="g121">
+        <path
+           d="M -565.2428709981116 -96.61319456012313 L -565.2428709981116 -96.61319456012315 A 40 40 0 0 1 -559.7541961661145 -116.8361625704912 L 226.7711350337535 -1459.0739312300384 L 226.7711350337535 -1459.0739312300384"
+           id="path120" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(226.7711350337535 -1459.0739312300384) rotate(-59.63052352396266) translate(33.71025971044415 0)"
+           stroke="none"
+           id="polygon120" />
+      </g>
+      <g
+         transform="translate(-169.23586798217906 -783.2717224304993) rotate(-59.63052352396266) translate(0 -73)"
+         id="g124">
+        <g
+           transform="translate(0 0)"
+           id="g123">
+          <g
+             transform="translate(-423.8666687011719 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g122">
+            <rect
+               x="0"
+               y="0"
+               width="847.7333374023438"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect121" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text121">is up/downstream of sequence of  </text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g130">
+      <g
+         stroke-width="8"
+         stroke="#000000"
+         id="g126">
+        <path
+           d="M -425.2428709981116 43.386805439876866 L -425.2428709981115 43.386805439876866 A 40 40 0 0 0 -388.5206381437203 19.244851163983867 L 245.72692963281128 -1449.47249752008 L 245.72692963281128 -1449.47249752008"
+           id="path125"
+           style="fill:none" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(245.72692963281128 -1449.47249752008) rotate(-66.64349108168908) translate(33.71025971044415 0)"
+           stroke="none"
+           id="polygon125" />
+      </g>
+      <g
+         transform="translate(-76.60955763727827 -703.0428460401016) rotate(-66.64349108168908) translate(0 8)"
+         id="g129">
+        <g
+           transform="translate(0 0)"
+           id="g128">
+          <g
+             transform="translate(-294 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g127">
+            <rect
+               x="0"
+               y="0"
+               width="588"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect126" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text126">involved in regulation of</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g135">
+      <g
+         transform="translate(314.59456066367943 -1608.9482126771727) rotate(118.0344646586586)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g131">
+        <path
+           d="M 140 0 L 1698.273959840855 0"
+           id="path130" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(1731.984219551299 0) rotate(0)"
+           stroke="none"
+           id="polygon130" />
+      </g>
+      <ellipse
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.95222;paint-order:fill markers stroke"
+         id="path390"
+         ry="51.383583"
+         rx="28.349562"
+         cy="-1045.0262"
+         cx="-324.09351"
+         transform="rotate(20)" />
+      <g
+         transform="rotate(-61.965535,-680.22166,-190.94972)"
+         id="g134">
+        <g
+           id="g133">
+          <g
+             transform="translate(-423.86667)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g132">
+            <rect
+               x="0"
+               y="0"
+               width="847.73334"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect131" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821045"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55px"
+               font-weight="normal"
+               fill="#000000"
+               id="text131">is down/upstream of sequence of  </text>
+          </g>
+        </g>
+      </g>
+      <ellipse
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.95222;paint-order:fill markers stroke"
+         id="path390-2"
+         ry="51.383583"
+         rx="28.349562"
+         cy="-772.76831"
+         cx="-2949.8435"
+         transform="rotate(20)" />
+    </g>
+    <g
+       class="relationship"
+       id="g140">
+      <g
+         stroke-width="8"
+         stroke="#000000"
+         id="g136"
+         style="fill:none"
+         transform="matrix(1.0025037,0,0,0.88828472,-0.05772496,28.396854)">
+        <path
+           d="m -705.24287,43.386805 v 0 a 40,40 0 0 0 -40,40 v 50.000005 50 a 40,40 0 0 0 40,40 h 50 50 a 40,40 0 0 0 40,-40 v 0 0"
+           id="path135"
+           style="fill:none" />
+      </g>
+      <g
+         transform="translate(-667.98712,235.21574)"
+         id="g139">
+        <g
+           id="g138">
+          <g
+             transform="translate(-165.48334)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g137">
+            <rect
+               x="0"
+               y="0"
+               width="330.96667"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect136" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821045"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55px"
+               font-weight="normal"
+               fill="#000000"
+               id="text136">interacts with</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g145">
+      <g
+         transform="translate(-4067.0593781756747 66.28420053408664) rotate(-90)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g141">
+        <path
+           d="M 140 0 L 344.9562095986929 0"
+           id="path140" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(378.666469309137 0) rotate(0)"
+           stroke="none"
+           id="polygon140" />
+      </g>
+      <g
+         transform="translate(-4063.3548,-211.27024)"
+         id="g144">
+        <g
+           id="g143">
+          <g
+             transform="translate(-462.06668)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g142">
+            <rect
+               x="0"
+               y="0"
+               width="924.13336"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect141" />
+          </g>
+        </g>
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10.3249;paint-order:fill markers stroke"
+           id="path406"
+           sodipodi:type="arc"
+           sodipodi:cx="11.565228"
+           sodipodi:cy="-40.299896"
+           sodipodi:rx="90.099365"
+           sodipodi:ry="115.39593"
+           sodipodi:start="0"
+           sodipodi:end="2.388212"
+           sodipodi:arc-type="slice"
+           d="M 101.66459,-40.299896 A 90.099365,115.39593 0 0 1 44.707817,67.005296 90.099365,115.39593 0 0 1 -54.151474,38.643432 l 65.716702,-78.943328 z"
+           transform="matrix(0.23247094,0.97260334,-0.62030995,0.78435679,0,0)" />
+        <text
+           xml:space="preserve"
+           x="15.024515"
+           y="23.392073"
+           stroke="none"
+           text-anchor="left"
+           font-family="sans-serif"
+           font-size="55px"
+           font-weight="normal"
+           fill="#000000"
+           id="text141"
+           style="text-align:center;text-anchor:middle"><tspan
+             sodipodi:role="line"
+             id="tspan405"
+             x="15.024515"
+             y="23.392073">decreases by repression</tspan><tspan
+             sodipodi:role="line"
+             id="tspan406"
+             x="24.692484"
+             y="92.142075">quantity of   </tspan></text>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g150">
+      <g
+         transform="translate(-532.6662342761198 -2396.218133322047) rotate(155.5821989674387)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g146">
+        <path
+           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 687.6291418658911 -10 L 1141.2105509604983 -10 A 40 40 0 0 1 1142.9243119416349 -9.963270928435442 L 1201.707529435348 -7.442446627872059 L 1201.707529435348 -7.442446627872059"
+           id="path145" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(1375.2582837317823 0) rotate(2.4555334077035282) translate(-140 0)"
+           stroke="none"
+           id="polygon145" />
+      </g>
+      <g
+         transform="translate(-1154.6567003095251 -2102.855393856434) rotate(335.5821989674387) translate(0 8)"
+         id="g149">
+        <g
+           transform="translate(0 0)"
+           id="g148">
+          <g
+             transform="translate(-296.9666748046875 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g147">
+            <rect
+               x="0"
+               y="0"
+               width="593.933349609375"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect146" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text146">represses expression of</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g155">
+      <g
+         transform="translate(-532.6662342761198 -2396.218133322047) rotate(155.5821989674387)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g151">
+        <path
+           d="M 139.87144824952406 5.998163433978463 L 232.33397179014736 9.963270928435442 A 40 40 0 0 0 234.04773277128407 10 L 687.6291418658911 10 L 1141.2105509604983 10 A 40 40 0 0 0 1142.9243119416349 9.963270928435442 L 1201.707529435348 7.442446627872059 L 1201.707529435348 7.442446627872059"
+           id="path150" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(1375.2582837317823 0) rotate(-2.4555334077035282) translate(-140 0)"
+           stroke="none"
+           id="polygon150" />
+      </g>
+      <g
+         transform="translate(-1162.9244472518942 -2121.066499273101) rotate(335.5821989674387) translate(0 -73)"
+         id="g154">
+        <g
+           transform="translate(0 0)"
+           id="g153">
+          <g
+             transform="translate(-405.6333312988281 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g152">
+            <rect
+               x="0"
+               y="0"
+               width="811.2666625976562"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect151" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text151">involved in negative regulation of</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g160">
+      <g
+         stroke-width="8"
+         stroke="#000000"
+         id="g156">
+        <path
+           d="M -392.6662342761198 -2396.218133322047 L -392.6662342761198 -2396.218133322047 A 40 40 0 0 1 -362.5679657215608 -2382.563801467259 L 200.18173926992975 -1739.657663863351 L 200.18173926992975 -1739.657663863351"
+           id="path155"
+           style="fill:none" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(200.18173926992975 -1739.657663863351) rotate(48.80363651647884) translate(33.71025971044415 0)"
+           stroke="none"
+           id="polygon155" />
+      </g>
+      <g
+         transform="rotate(48.803637,2356.5818,-1163.0796)"
+         id="g159">
+        <g
+           id="g158">
+          <g
+             transform="translate(-439.16666)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g157">
+            <rect
+               x="0"
+               y="0"
+               width="878.33331"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect156" />
+            <text
+               xml:space="preserve"
+               x="11.417918"
+               y="51.113762"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55px"
+               font-weight="normal"
+               fill="#000000"
+               id="text156"
+               style="font-size:53.3333px">decreases by repression quantity of</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g165">
+      <g
+         stroke-width="8"
+         stroke="#000000"
+         id="g161">
+        <path
+           d="M -532.6662342761198 -2256.218133322047 L -532.6662342761198 -2256.218133322047 A 40 40 0 0 0 -516.4633516923105 -2224.0669715595222 L 174.96989416966272 -1712.2932988453335 L 174.96989416966272 -1712.2932988453335"
+           id="path160"
+           style="fill:none" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(174.96989416966272 -1712.2932988453335) rotate(36.50749494837325) translate(33.71025971044415 0)"
+           stroke="none"
+           id="polygon160" />
+      </g>
+      <g
+         transform="translate(-178.8481700532285 -1974.1765265953059) rotate(36.50749494837325) translate(0 8)"
+         id="g164">
+        <g
+           transform="translate(0 0)"
+           id="g163">
+          <g
+             transform="translate(-140.98333740234375 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g162">
+            <rect
+               x="0"
+               y="0"
+               width="281.9666748046875"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect161" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text161">is carrier of</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g170">
+      <g
+         transform="translate(-1784.9149132852997 -2471.5985366776304) rotate(90)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g166">
+        <path
+           d="M 140 0 L 470.18451715969843 0"
+           id="path165" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(503.89477687014255 0) rotate(0)"
+           stroke="none"
+           id="polygon165" />
+      </g>
+      <g
+         transform="translate(-1832.0014,-2199.0063)"
+         id="g169">
+        <g
+           id="g168">
+          <g
+             transform="translate(-405.63333)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g167">
+            <rect
+               x="0"
+               y="0"
+               width="811.26666"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect166" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821045"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55px"
+               font-weight="normal"
+               fill="#000000"
+               id="text166">involved in negative regulation of</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g175">
+      <g
+         transform="translate(-2721.1681584187413 -2217.6810482939723) rotate(22.613178169759664)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g171">
+        <path
+           d="M 140 0 L 840.5147767376664 0"
+           id="path170" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(874.2250364481105 0) rotate(0)"
+           stroke="none"
+           id="polygon170" />
+      </g>
+      <g
+         transform="translate(-2341.7218,-2061.6733)"
+         id="g174">
+        <g
+           id="g173">
+          <g
+             transform="translate(-420.89999)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g172">
+            <rect
+               x="0"
+               y="0"
+               width="841.79999"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect171" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821045"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55px"
+               font-weight="normal"
+               fill="#000000"
+               id="text171">involved in negative regulation of  </text>
+          </g>
+        </g>
+      </g>
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;paint-order:fill markers stroke"
+         id="path394"
+         sodipodi:type="arc"
+         sodipodi:cx="-426.27353"
+         sodipodi:cy="1685.2454"
+         sodipodi:rx="42.989799"
+         sodipodi:ry="55.099602"
+         sodipodi:start="0"
+         sodipodi:end="2.388212"
+         sodipodi:arc-type="slice"
+         d="m -383.28373,1685.2454 a 42.989799,55.099602 0 0 1 -27.17622,51.2364 42.989799,55.099602 0 0 1 -47.16949,-13.5423 l 31.35591,-37.6941 z"
+         transform="rotate(110)" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;paint-order:fill markers stroke"
+         id="path394-0"
+         sodipodi:type="arc"
+         sodipodi:cx="-291.79834"
+         sodipodi:cy="1459.0974"
+         sodipodi:rx="42.989799"
+         sodipodi:ry="55.099602"
+         sodipodi:start="0"
+         sodipodi:end="2.388212"
+         sodipodi:arc-type="slice"
+         d="m -248.80854,1459.0974 a 42.989799,55.099602 0 0 1 -27.17622,51.2364 42.989799,55.099602 0 0 1 -47.16949,-13.5423 l 31.35591,-37.6941 z"
+         transform="rotate(110)" />
+    </g>
+    <g
+       class="relationship"
+       id="g180">
+      <g
+         transform="translate(611.4786386247822 -2351.525584984911) rotate(111.79163962303618)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g176">
+        <path
+           d="M 140 0 L 659.7257715056326 0"
+           id="path175" />
+      </g>
+      <g
+         transform="translate(487.66008,-2069.0191)"
+         id="g179">
+        <g
+           id="g178">
+          <g
+             transform="translate(-312.21667)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g177">
+            <rect
+               x="0"
+               y="0"
+               width="624.43335"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect176" />
+            <text
+               xml:space="preserve"
+               x="-51.979183"
+               y="47.821045"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55px"
+               font-weight="normal"
+               fill="#000000"
+               id="text176">molecularly interacts with</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g185">
+      <g
+         transform="translate(-1207.4058842791862 -1259.9413480330338) rotate(-12.915101703922186)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g181">
+        <path
+           d="M 144.87587978085796 -5.998287899258956 L 240.70172408781426 -9.965759939547018 A 40 40 0 0 1 242.35642419795465 -10 L 780.7514242662343 -10 L 1327.4551157611845 -10 A 40 40 0 0 1 1329.1688767423211 -9.963270928435442 L 1387.9520942360346 -7.442446627872059 L 1387.9520942360346 -7.442446627872059"
+           id="path180" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(1561.5028485324685 0) rotate(2.4555334077035282) translate(-140 0)"
+           stroke="none"
+           id="polygon180" />
+      </g>
+      <g
+         transform="translate(-446.20397631853916 -1444.7505711041647) rotate(-12.915101703922186) translate(0 -73)"
+         id="g184">
+        <g
+           transform="translate(0 0)"
+           id="g183">
+          <g
+             transform="translate(-370.3666687011719 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g182">
+            <rect
+               x="0"
+               y="0"
+               width="740.7333374023438"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect181" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text181">is downstream of sequence of</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g190">
+      <g
+         transform="translate(314.59456066367943 -1608.9482126771727) rotate(167.08489829607785)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g186">
+        <path
+           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 780.7514242662343 -10 L 1319.1464243345138 -10 A 40 40 0 0 1 1320.8011244446543 -9.965759939547018 L 1382.9455650744258 -7.392797160652292 L 1382.9455650744258 -7.392797160652292"
+           id="path185" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(1561.5028485324685 0) rotate(2.3708598419206477) translate(-145 0)"
+           stroke="none"
+           id="polygon185" />
+      </g>
+      <g
+         transform="translate(-441.7338357104429 -1425.256524758066) rotate(347.0848982960779) translate(0 8)"
+         id="g189">
+        <g
+           transform="translate(0 0)"
+           id="g188">
+          <g
+             transform="translate(-335.20001220703125 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g187">
+            <rect
+               x="0"
+               y="0"
+               width="670.4000244140625"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect186" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text186">is upstream of sequence of</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g195">
+      <g
+         transform="translate(-1784.9149132852997 66.2842005340869) rotate(-63.71001697414411)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g191">
+        <path
+           d="M 140 0 L 687.633216020448 0"
+           id="path190" />
+      </g>
+      <g
+         transform="translate(-1601.629557092528 -304.7288225127817) rotate(0) translate(0 -32.5)"
+         id="g194">
+        <g
+           transform="translate(0 0)"
+           id="g193">
+          <g
+             transform="translate(-165.48333740234375 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g192">
+            <rect
+               x="0"
+               y="0"
+               width="330.9666748046875"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect191" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text191">interacts with</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g200">
+      <g
+         transform="translate(-565.2428709981116 43.386805439876866) rotate(-139.87051568489852)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g196">
+        <path
+           d="M 140 0 L 975.7633690744444 0"
+           id="path195" />
+      </g>
+      <g
+         transform="translate(-1026.0685,-374.55951)"
+         id="g199">
+        <g
+           id="g198">
+          <g
+             transform="translate(-180.75)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g197">
+            <rect
+               x="0"
+               y="0"
+               width="361.5"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect196" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821045"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55px"
+               font-weight="normal"
+               fill="#000000"
+               id="text196">interacts with  </text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g205">
+      <g
+         transform="translate(314.59456066367943 -452.3822687750504) rotate(-146.77247450839954)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g201">
+        <path
+           d="M 140 0 L 2369.8703621695695 0"
+           id="path200" />
+      </g>
+      <g
+         transform="translate(-735.1601763108101 -1140.0430142912692) rotate(33.22752549160045) translate(0 -32.5)"
+         id="g204">
+        <g
+           transform="translate(0 0)"
+           id="g203">
+          <g
+             transform="translate(-180.75 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g202">
+            <rect
+               x="0"
+               y="0"
+               width="361.5"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect201" />
+          </g>
+        </g>
+      </g>
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;paint-order:fill markers stroke"
+         id="path402"
+         sodipodi:type="arc"
+         sodipodi:cx="-583.15173"
+         sodipodi:cy="-1053.8505"
+         sodipodi:rx="19.27318"
+         sodipodi:ry="32.680611"
+         sodipodi:start="0"
+         sodipodi:end="2.388212"
+         sodipodi:arc-type="slice"
+         d="m -563.87855,-1053.8505 a 19.27318,32.680611 0 0 1 -12.18364,30.3893 19.27318,32.680611 0 0 1 -21.14702,-8.0322 l 14.05748,-22.3571 z" />
+      <text
+         xml:space="preserve"
+         x="-1418.0004"
+         y="-535.07959"
+         stroke="none"
+         text-anchor="left"
+         font-family="sans-serif"
+         font-size="55px"
+         font-weight="normal"
+         fill="#000000"
+         id="text201"
+         transform="rotate(33.227525)">interacts with  </text>
+    </g>
+    <g
+       class="relationship"
+       id="g210">
+      <g
+         transform="translate(-2820.0729534073075 -1537.9031836297645) rotate(15.791172147545824)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g206">
+        <path
+           d="M 140 0 L 771.3909597269967 0"
+           id="path205" />
+      </g>
+      <g
+         transform="translate(-2381.575451161043 -1413.893865867706) rotate(15.791172147545824) translate(0 -32.5)"
+         id="g209">
+        <g
+           id="g208"
+           transform="translate(0 0)">
+          <g
+             transform="translate(-281.73333740234375 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g207">
+            <rect
+               x="0"
+               y="0"
+               width="563.4666748046875"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect206" />
+            <text
+               xml:space="preserve"
+               x="0.68519896"
+               y="46.999992"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55px"
+               font-weight="normal"
+               fill="#000000"
+               id="text206"><tspan
+   style="font-size:53.3333px"
+   id="tspan390">overlaps sequence of</tspan>  </text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g215">
+      <g
+         transform="translate(-1784.9149132852997 -1827.7037598074878) rotate(5.948392264832732)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g211">
+        <path
+           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 1055.4375894151442 -10 L 1876.8274460590044 -10 A 40 40 0 0 1 1878.541207040141 -9.963270928435442 L 1937.3244245338542 -7.442446627872059 L 1937.3244245338542 -7.442446627872059"
+           id="path210" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(2110.8751788302884 0) rotate(2.4555334077035282) translate(-140 0)"
+           stroke="none"
+           id="polygon210" />
+      </g>
+      <g
+         transform="translate(-734.1238500072741 -1728.2721426754756) rotate(5.948392264832732) translate(0 -73)"
+         id="g214">
+        <g
+           transform="translate(0 0)"
+           id="g213">
+          <g
+             transform="translate(-301.5333251953125 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g212">
+            <rect
+               x="0"
+               y="0"
+               width="603.066650390625"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect211" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text211">ribosomally translates to</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g220">
+      <g
+         transform="translate(314.59456066367943 -1608.9482126771727) rotate(-174.0516077351673)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g216">
+        <path
+           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 1055.4375894151442 -10 L 1876.8274460590044 -10 A 40 40 0 0 1 1878.541207040141 -9.963270928435442 L 1937.3244245338542 -7.442446627872059 L 1937.3244245338542 -7.442446627872059"
+           id="path215" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(2110.8751788302884 0) rotate(2.4555334077035282) translate(-140 0)"
+           stroke="none"
+           id="polygon215" />
+      </g>
+      <g
+         transform="translate(-736.1965026143462 -1708.3798298091847) rotate(5.948392264832717) translate(0 8)"
+         id="g219">
+        <g
+           transform="translate(0 0)"
+           id="g218">
+          <g
+             transform="translate(-289.3333435058594 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g217">
+            <rect
+               x="0"
+               y="0"
+               width="578.6666870117188"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect216" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text216">ribosomal translation of</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g225">
+      <g
+         transform="translate(-2820.0729534073075 -1537.9031836297645) rotate(-15.640004773550475)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g221">
+        <path
+           d="M 140 0 L 934.9588559485319 0"
+           id="path220" />
+      </g>
+      <g
+         transform="translate(-2302.4939333463035 -1682.803471718626) rotate(-15.640004773550475) translate(0 -32.5)"
+         id="g224">
+        <g
+           id="g223"
+           transform="translate(0 0)">
+          <g
+             transform="translate(-180.75 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g222">
+            <rect
+               x="0"
+               y="0"
+               width="361.5"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect221" />
+            <text
+               xml:space="preserve"
+               x="-1.2041547"
+               y="48.123928"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55px"
+               font-weight="normal"
+               fill="#000000"
+               id="text221"><tspan
+   style="font-size:53.3333px"
+   id="tspan391">interacts with </tspan> </text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g230">
+      <g
+         transform="translate(-3598.4649457767814 -1608.9482126771727) rotate(64.42207819504698)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g226">
+        <path
+           d="M 140 0 L 695.8375873602989 0"
+           id="path225" />
+      </g>
+      <g
+         transform="translate(-3418.0334350740254 -1231.9858961830798) rotate(0) translate(0 -32.5)"
+         id="g229">
+        <g
+           transform="translate(0 0)"
+           id="g228">
+          <g
+             transform="translate(-173.11666870117188 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g227">
+            <rect
+               x="0"
+               y="0"
+               width="346.23333740234375"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect226" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text226">interacts with </text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g235">
+      <g
+         stroke-width="8"
+         stroke="#000000"
+         id="g231"
+         style="fill:none">
+        <path
+           d="m 454.59456,-452.38227 v 0 c 22.09139,0 40,-17.90861 40,-40 v -538.28293 -538.283 c -0.47655,-23.5798 -13.1452,-40.1785 -40,-40 v 0 0"
+           id="path230"
+           style="fill:none"
+           sodipodi:nodetypes="cssccscc" />
+      </g>
+      <g
+         transform="translate(494.59456066367943 -1030.6652407261117) rotate(0) translate(7.999999999999995 -32.49999999999997)"
+         id="g234">
+        <g
+           transform="translate(0 0)"
+           id="g233">
+          <g
+             transform="translate(0 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g232">
+            <rect
+               x="0"
+               y="0"
+               width="330.9666748046875"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect231" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821045"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55px"
+               font-weight="normal"
+               fill="#000000"
+               id="text231"><tspan
+                 sodipodi:role="line"
+                 id="tspan403"
+                 x="5"
+                 y="47.821045">interacts</tspan><tspan
+                 sodipodi:role="line"
+                 id="tspan404"
+                 x="5"
+                 y="116.57104">with</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g240">
+      <g
+         transform="translate(314.59456066367943 -1608.9482126771727) rotate(-137.10193772883338)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g236">
+        <path
+           d="M 185 0 L 982.8556841916783 0"
+           id="path235" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(1016.5659439021224 0) rotate(0)"
+           stroke="none"
+           id="polygon235" />
+      </g>
+      <g
+         transform="translate(-113.17107629810812 -2006.4256140591626) rotate(42.89806227116661) translate(0 -32.5)"
+         id="g239">
+        <g
+           transform="translate(0 0)"
+           id="g238">
+          <g
+             transform="translate(-310.8166809082031 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g237">
+            <rect
+               x="0"
+               y="0"
+               width="621.6333618164062"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect236" />
+            <text
+               xml:space="preserve"
+               x="1.3366588"
+               y="46.448692"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55px"
+               font-weight="normal"
+               fill="#000000"
+               id="text236"><tspan
+   style="font-size:53.3333px"
+   id="tspan389">generically depends on </tspan>  </text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g245">
+      <g
+         transform="translate(314.59456066367943 -1608.9482126771727) rotate(90)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g241">
+        <path
+           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 578.2829719510612 -10 L 922.5182111308383 -10 A 40 40 0 0 1 924.231972111975 -9.963270928435442 L 983.0151896056883 -7.442446627872059 L 983.0151896056883 -7.442446627872059"
+           id="path240" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(1156.5659439021224 0) rotate(2.4555334077035282) translate(-140 0)"
+           stroke="none"
+           id="polygon240" />
+      </g>
+      <g
+         transform="translate(324.5945606636795 -1030.6652407261115) rotate(270) translate(0 8)"
+         id="g244">
+        <g
+           transform="translate(0 0)"
+           id="g243">
+          <g
+             transform="translate(-196.13333129882812 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g242">
+            <rect
+               x="0"
+               y="0"
+               width="392.26666259765625"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect241" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text241">gene product of</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="relationship"
+       id="g250">
+      <g
+         transform="translate(314.59456066367943 -452.3822687750504) rotate(-90)"
+         stroke-width="8"
+         stroke="#000000"
+         id="g246">
+        <path
+           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 578.2829719510612 -10 L 922.5182111308383 -10 A 40 40 0 0 1 924.231972111975 -9.963270928435442 L 983.0151896056883 -7.442446627872059 L 983.0151896056883 -7.442446627872059"
+           id="path245" />
+        <polygon
+           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           fill="#000000"
+           transform="translate(1156.5659439021224 0) rotate(2.4555334077035282) translate(-140 0)"
+           stroke="none"
+           id="polygon245" />
+      </g>
+      <g
+         transform="translate(304.5945606636795 -1030.6652407261117) rotate(90) translate(0 8)"
+         id="g249">
+        <g
+           transform="translate(0 0)"
+           id="g248">
+          <g
+             transform="translate(-217.5500030517578 0)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0"
+             id="g247">
+            <rect
+               x="0"
+               y="0"
+               width="435.1000061035156"
+               height="65"
+               rx="5"
+               ry="5"
+               stroke="none"
+               id="rect246" />
+            <text
+               xml:space="preserve"
+               x="5"
+               y="47.821044921875"
+               stroke="none"
+               text-anchor="left"
+               font-family="sans-serif"
+               font-size="55"
+               font-weight="normal"
+               fill="#000000"
+               id="text246">has gene product</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g256">
+      <g
+         fill="#f5bd94"
+         stroke="#00008b"
+         stroke-width="5"
+         id="g251">
+        <circle
+           cx="611.4786386247822"
+           cy="-2351.525584984911"
+           r="132.5"
+           id="circle250" />
+      </g>
+      <g
+         transform="matrix(0.868381,0,0,1,609.32837,-2351.5256)"
+         id="g255">
+        <g
+           transform="scale(0.61328164)"
+           id="g254">
+          <g
+             id="g253">
+            <g
+               font-family="sans-serif"
+               font-size="100px"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g252">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="28.393555"
+                 stroke="none"
+                 id="text251">aptamer</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g262">
+      <g
+         fill="#B0CDF1"
+         stroke="#8b0000"
+         stroke-width="5"
+         id="g257">
+        <circle
+           cx="314.59456066367943"
+           cy="-1608.9482126771727"
+           r="132.5"
+           id="circle256" />
+      </g>
+      <g
+         transform="translate(314.59456066367943 -1608.9482126771727)"
+         id="g261">
+        <g
+           transform="matrix(0.62601935,0,0,0.6953128,2.7142192,0)"
+           id="g260">
+          <g
+             id="g259">
+            <g
+               font-family="sans-serif"
+               font-size="100px"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g258">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="28.393555"
+                 stroke="none"
+                 id="text257">protein</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g268">
+      <g
+         fill="#f5bd94"
+         stroke="#00008b"
+         stroke-width="5"
+         id="g263">
+        <circle
+           cx="-532.6662342761198"
+           cy="-2396.218133322047"
+           r="132.5"
+           id="circle262" />
+      </g>
+      <g
+         transform="translate(-532.6662342761198 -2396.218133322047)"
+         id="g267">
+        <g
+           transform="scale(1) translate(0 0)"
+           id="g266">
+          <g
+             transform="translate(0 0)"
+             id="g265">
+            <g
+               font-family="sans-serif"
+               font-size="100"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g264">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="28.3935546875"
+                 stroke="none"
+                 id="text263">ASO</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g274">
+      <g
+         fill="#D2E3AE"
+         stroke="#00008b"
+         stroke-width="5"
+         id="g269">
+        <circle
+           cx="-1784.9149132852997"
+           cy="-1827.7037598074878"
+           r="132.5"
+           id="circle268" />
+      </g>
+      <g
+         transform="translate(-1784.9149132852997 -1827.7037598074878)"
+         id="g273">
+        <g
+           transform="scale(0.7578127421875) translate(0 0)"
+           id="g272">
+          <g
+             transform="translate(0 0)"
+             id="g271">
+            <g
+               font-family="sans-serif"
+               font-size="100"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g270">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="28.3935546875"
+                 stroke="none"
+                 id="text269">mRNA</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g280">
+      <g
+         fill="#f5bd94"
+         stroke="#00008b"
+         stroke-width="5"
+         id="g275">
+        <circle
+           cx="-2922.20391079785"
+           cy="-1910.6949074881709"
+           r="132.5"
+           id="circle274" />
+      </g>
+      <g
+         transform="matrix(0.98960568,0,0,1,-2923.4594,-1910.6949)"
+         id="g279">
+        <g
+           transform="scale(0.88281262)"
+           id="g278">
+          <g
+             id="g277">
+            <g
+               font-family="sans-serif"
+               font-size="100px"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g276">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="28.393555"
+                 stroke="none"
+                 id="text275">rRNA</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g286">
+      <g
+         fill="#f5bd94"
+         stroke="#00008b"
+         stroke-width="5"
+         id="g281">
+        <circle
+           cx="-3598.4649457767814"
+           cy="-1608.9482126771727"
+           r="132.5"
+           id="circle280" />
+      </g>
+      <g
+         transform="matrix(0.94116492,0,0,1,-3598.4032,-1608.9482)"
+         id="g285">
+        <g
+           transform="scale(0.60546914)"
+           id="g284">
+          <g
+             id="g283">
+            <g
+               font-family="sans-serif"
+               font-size="100px"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g282">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="28.393555"
+                 stroke="none"
+                 id="text281">snoRNA</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g292">
+      <g
+         fill="#f5bd94"
+         stroke="#00008b"
+         stroke-width="5"
+         id="g287">
+        <circle
+           cx="-3298.2047396463445"
+           cy="-2129.014145186193"
+           r="132.5"
+           id="circle286" />
+      </g>
+      <g
+         transform="matrix(0.9598764,0,0,1,-3298.1558,-2129.0141)"
+         id="g291">
+        <g
+           transform="scale(0.7031253)"
+           id="g290">
+          <g
+             id="g289">
+            <g
+               font-family="sans-serif"
+               font-size="100px"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g288">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="28.393555"
+                 stroke="none"
+                 id="text287">snRNA</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g298">
+      <g
+         fill="#f5bd94"
+         stroke="#00008b"
+         stroke-width="5"
+         id="g293">
+        <circle
+           cx="-3598.4649457767814"
+           cy="66.2842005340869"
+           r="132.5"
+           id="circle292" />
+      </g>
+      <g
+         transform="matrix(0.95944206,0,0,1,-3598.448,66.284201)"
+         id="g297">
+        <g
+           transform="scale(0.8984376)"
+           id="g296">
+          <g
+             id="g295">
+            <g
+               font-family="sans-serif"
+               font-size="100px"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g294">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="28.393555"
+                 stroke="none"
+                 id="text293">tRNA</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g304">
+      <g
+         fill="#f5bd94"
+         stroke="#00008b"
+         stroke-width="5"
+         id="g299">
+        <circle
+           cx="-2535.890939669664"
+           cy="66.28420053408664"
+           r="162.5"
+           id="circle298" />
+      </g>
+      <g
+         transform="translate(-2535.890939669664 66.28420053408664)"
+         id="g303">
+        <g
+           transform="scale(0.7968752031249999) translate(0 0)"
+           id="g302">
+          <g
+             transform="translate(0 0)"
+             id="g301">
+            <g
+               font-family="sans-serif"
+               font-size="100"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g300">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="-31.6064453125"
+                 stroke="none"
+                 id="text299">tsRNA</text>
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="88.3935546875"
+                 stroke="none"
+                 text-anchor="middle"
+                 id="text300">&amp; tRF</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g310">
+      <g
+         fill="#f5bd94"
+         stroke="#00008b"
+         stroke-width="5"
+         id="g305">
+        <circle
+           cx="-1207.4058842791862"
+           cy="-1259.9413480330338"
+           r="137.5"
+           id="circle304" />
+      </g>
+      <g
+         transform="translate(-1207.4059,-1262.6403)"
+         id="g309">
+        <g
+           transform="scale(0.66015659)"
+           id="g308">
+          <g
+             id="g307">
+            <g
+               font-family="sans-serif"
+               font-size="100px"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g306">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="-31.606445"
+                 stroke="none"
+                 id="text305">ribo-</text>
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="88.393555"
+                 stroke="none"
+                 text-anchor="middle"
+                 id="text306">switch</text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.93725;paint-order:fill markers stroke"
+         id="path395"
+         sodipodi:type="arc"
+         sodipodi:cx="-165.21584"
+         sodipodi:cy="-199.56169"
+         sodipodi:rx="38.238125"
+         sodipodi:ry="52.369606"
+         sodipodi:start="0"
+         sodipodi:end="2.388212"
+         sodipodi:arc-type="slice"
+         d="m -126.97771,-199.56169 a 38.238125,52.369606 0 0 1 -24.17243,48.69782 38.238125,52.369606 0 0 1 -41.95583,-12.87133 l 27.89013,-35.82649 z"
+         transform="rotate(70)" />
+    </g>
+    <g
+       class="node"
+       id="g316">
+      <g
+         fill="#f5bd94"
+         stroke="#00008b"
+         stroke-width="5"
+         id="g311">
+        <circle
+           cx="-2721.1681584187413"
+           cy="-2217.6810482939723"
+           r="132.5"
+           id="circle310" />
+      </g>
+      <g
+         transform="matrix(0.9598764,0,0,1,-2718.5429,-2217.681)"
+         id="g315">
+        <g
+           transform="scale(0.7031253)"
+           id="g314">
+          <g
+             id="g313">
+            <g
+               font-family="sans-serif"
+               font-size="100px"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g312">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="28.393555"
+                 stroke="none"
+                 id="text311">shRNA</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g322">
+      <g
+         fill="#f5bd94"
+         stroke="#00008b"
+         stroke-width="5"
+         id="g317">
+        <circle
+           cx="-4067.0593781756747"
+           cy="66.28420053408664"
+           r="132.5"
+           id="circle316" />
+      </g>
+      <g
+         transform="matrix(0.98969875,0,0,1,-4068.3339,66.284201)"
+         id="g321">
+        <g
+           transform="scale(0.82031268)"
+           id="g320">
+          <g
+             id="g319">
+            <g
+               font-family="sans-serif"
+               font-size="100px"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g318">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="28.393555"
+                 stroke="none"
+                 id="text317">gRNA</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g328">
+      <g
+         fill="#f5bd94"
+         stroke="#00008b"
+         stroke-width="5"
+         id="g323">
+        <circle
+           cx="-1784.9149132852997"
+           cy="-2471.5985366776304"
+           r="132.5"
+           id="circle322" />
+      </g>
+      <g
+         transform="matrix(0.98985135,0,0,1,-1786.1895,-2471.5985)"
+         id="g327">
+        <g
+           transform="scale(0.77343773)"
+           id="g326">
+          <g
+             id="g325">
+            <g
+               font-family="sans-serif"
+               font-size="100px"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g324">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="28.393555"
+                 stroke="none"
+                 id="text323">siRNA</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g334">
+      <g
+         fill="#D1C2FA"
+         stroke="#00008b"
+         stroke-width="5"
+         id="g329">
+        <circle
+           cx="314.59456066367943"
+           cy="-452.3822687750504"
+           r="132.5"
+           id="circle328" />
+      </g>
+      <g
+         transform="translate(314.59456066367943 -452.3822687750504)"
+         id="g333">
+        <g
+           transform="scale(0.65625034375) translate(0 0)"
+           id="g332">
+          <g
+             transform="translate(0 0)"
+             id="g331">
+            <g
+               font-family="sans-serif"
+               font-size="100"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g330">
+              <text
+                 xml:space="preserve"
+                 x="1.1065837"
+                 y="27.673357"
+                 stroke="none"
+                 id="text329"
+                 transform="scale(0.97463526,1.0260249)"
+                 style="font-size:97.4635px;stroke-width:0.974635">lncRNA</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g340">
+      <g
+         fill="#f5bd94"
+         stroke="#00008b"
+         stroke-width="5"
+         id="g335">
+        <circle
+           cx="-2820.0729534073075"
+           cy="-1537.9031836297645"
+           r="132.5"
+           id="circle334" />
+      </g>
+      <g
+         transform="translate(-2820.0729534073075 -1537.9031836297645)"
+         id="g339">
+        <g
+           transform="scale(0.71875028125) translate(0 0)"
+           id="g338">
+          <g
+             transform="translate(0 0)"
+             id="g337">
+            <g
+               font-family="sans-serif"
+               font-size="100"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g336">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="-31.6064453125"
+                 stroke="none"
+                 id="text335">ribo-</text>
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="88.3935546875"
+                 stroke="none"
+                 text-anchor="middle"
+                 id="text336">zyme</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g346">
+      <g
+         fill="#f5bd94"
+         stroke="#00008b"
+         stroke-width="5"
+         id="g341">
+        <circle
+           cx="-1784.9149132852997"
+           cy="66.2842005340869"
+           r="132.5"
+           id="circle340" />
+      </g>
+      <path
+         style="fill:#fffdff;fill-opacity:1;stroke:none;stroke-width:8.78516;paint-order:fill markers stroke"
+         id="path392"
+         sodipodi:type="arc"
+         sodipodi:cx="-2829.874"
+         sodipodi:cy="-1082.2686"
+         sodipodi:rx="23.646891"
+         sodipodi:ry="56.839424"
+         sodipodi:start="0"
+         sodipodi:end="2.388212"
+         sodipodi:arc-type="slice"
+         d="m -2806.2271,-1082.2686 a 23.646891,56.839424 0 0 1 -14.9485,52.8543 23.646891,56.839424 0 0 1 -25.946,-13.9699 l 17.2476,-38.8844 z"
+         transform="translate(4.0916123e-5,-3.667763e-5)" />
+      <g
+         transform="matrix(0.95241776,0,0,1,-1784.7956,66.284201)"
+         id="g345">
+        <g
+           transform="scale(0.7031253)"
+           id="g344">
+          <g
+             id="g343">
+            <g
+               font-family="sans-serif"
+               font-size="100px"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g342">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="28.393555"
+                 stroke="none"
+                 id="text341">miRNA</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g352">
+      <g
+         fill="#f5bd94"
+         stroke="#00008b"
+         stroke-width="5"
+         id="g347">
+        <circle
+           cx="-2353.264339208072"
+           cy="-713.2286860817863"
+           r="152.5"
+           id="circle346" />
+      </g>
+      <g
+         transform="translate(-2353.264339208072 -713.2286860817863)"
+         id="g351">
+        <g
+           transform="scale(1) translate(0 0)"
+           id="g350">
+          <g
+             transform="translate(0 0)"
+             id="g349">
+            <g
+               font-family="sans-serif"
+               font-size="60"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g348">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="-18.9638671875"
+                 stroke="none"
+                 id="text347">pseudo-</text>
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="53.0361328125"
+                 stroke="none"
+                 text-anchor="middle"
+                 id="text348">gene</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g358">
+      <g
+         fill="#f5bd94"
+         stroke="#00008b"
+         stroke-width="5"
+         id="g353">
+        <circle
+           cx="-565.2428709981116"
+           cy="43.386805439876866"
+           r="132.5"
+           id="circle352" />
+      </g>
+      <g
+         transform="matrix(0.89338851,0,0,1,-563.92113,43.386805)"
+         id="g357">
+        <g
+           transform="scale(0.49609425)"
+           id="g356">
+          <g
+             id="g355">
+            <g
+               font-family="sans-serif"
+               font-size="100px"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g354">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="28.393555"
+                 stroke="none"
+                 id="text353">premiRNA</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g364">
+      <g
+         fill="#D1C2FA"
+         stroke="#00008b"
+         stroke-width="5"
+         id="g359">
+        <circle
+           cx="-1418.3442008997565"
+           cy="-675.7418455596502"
+           r="132.5"
+           id="circle358" />
+      </g>
+      <g
+         transform="translate(-1418.3442008997565 -675.7418455596502)"
+         id="g363">
+        <g
+           transform="matrix(0.58177625,0,0,0.60546914,-0.9974615,0)"
+           id="g362">
+          <g
+             id="g361">
+            <g
+               font-family="sans-serif"
+               font-size="100px"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g360">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="28.393555"
+                 stroke="none"
+                 id="text359">circRNA</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g370">
+      <g
+         fill="#B0CDF1"
+         stroke="#8b0000"
+         stroke-width="5"
+         id="g365">
+        <circle
+           cx="-2922.20391079785"
+           cy="-675.7418455596502"
+           r="142.5"
+           id="circle364" />
+      </g>
+      <g
+         transform="translate(-2922.20391079785 -675.7418455596502)"
+         id="g369">
+        <g
+           transform="scale(0.7070315429687499) translate(0 0)"
+           id="g368">
+          <g
+             transform="translate(0 0)"
+             id="g367">
+            <g
+               font-family="sans-serif"
+               font-size="100"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g366">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="-31.6064453125"
+                 stroke="none"
+                 id="text365">amino</text>
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="88.3935546875"
+                 stroke="none"
+                 text-anchor="middle"
+                 id="text366">acid</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g376">
+      <g
+         fill="#A9E3B4"
+         stroke="#000000"
+         stroke-width="5"
+         id="g371">
+        <circle
+           cx="-4067.0593781756747"
+           cy="-452.3822687750504"
+           r="132.5"
+           id="circle370" />
+      </g>
+      <g
+         transform="matrix(0.98973409,0,0,1,-4068.3461,-452.38227)"
+         id="g375">
+        <g
+           transform="scale(0.94531255)"
+           id="g374">
+          <g
+             id="g373">
+            <g
+               font-family="sans-serif"
+               font-size="100px"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g372">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="28.393555"
+                 stroke="none"
+                 id="text371">gene</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g382">
+      <g
+         fill="#C9F2F1"
+         stroke="#00008b"
+         stroke-width="5"
+         id="g377">
+        <circle
+           cx="-1938.2666492462188"
+           cy="-1288.5238881557264"
+           r="137.5"
+           id="circle376" />
+      </g>
+      <g
+         transform="translate(-1938.2666492462188 -1288.5238881557264)"
+         id="g381">
+        <g
+           transform="scale(0.7968752031249999) translate(0 0)"
+           id="g380">
+          <g
+             transform="translate(0 0)"
+             id="g379">
+            <g
+               font-family="sans-serif"
+               font-size="100"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g378">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="-31.6064453125"
+                 stroke="none"
+                 id="text377">viral</text>
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="88.3935546875"
+                 stroke="none"
+                 text-anchor="middle"
+                 id="text378">RNA</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="node"
+       id="g388">
+      <g
+         fill="#f5bd94"
+         stroke="#00008b"
+         stroke-width="5"
+         id="g383">
+        <circle
+           cx="-3237.60192437127"
+           cy="-855.023579688987"
+           r="132.5"
+           id="circle382" />
+      </g>
+      <g
+         transform="matrix(0.99011609,0,0,1,-3236.3031,-855.02358)"
+         id="g387">
+        <g
+           transform="scale(0.62109413)"
+           id="g386">
+          <g
+             id="g385">
+            <g
+               font-family="sans-serif"
+               font-size="100px"
+               font-weight="bold"
+               fill="#000000"
+               text-anchor="middle"
+               id="g384">
+              <text
+                 xml:space="preserve"
+                 x="0"
+                 y="28.393555"
+                 stroke="none"
+                 id="text383">scaRNA</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       x="-2617.7739"
+       y="-2015.5627"
+       stroke="none"
+       text-anchor="left"
+       font-family="sans-serif"
+       font-size="55"
+       font-weight="normal"
+       fill="#000000"
+       id="text91"
+       style="font-size:53.3333px"
+       transform="rotate(-6.8779501)">interacts with</text>
+    <text
+       xml:space="preserve"
+       x="-3275.978"
+       y="811.62378"
+       stroke="none"
+       text-anchor="left"
+       font-family="sans-serif"
+       font-size="55px"
+       font-weight="normal"
+       fill="#000000"
+       id="text101"
+       transform="rotate(35.728881)">interacts with  </text>
+    <text
+       xml:space="preserve"
+       x="-2036.9215"
+       y="-506.32294"
+       stroke="none"
+       text-anchor="left"
+       font-family="sans-serif"
+       font-size="55px"
+       font-weight="normal"
+       fill="#000000"
+       id="text76"
+       transform="rotate(16.465869)"
+       style="display:inline;mix-blend-mode:normal">interacts with  </text>
+    <text
+       xml:space="preserve"
+       x="-2366.3623"
+       y="322.62701"
+       stroke="none"
+       text-anchor="left"
+       font-family="sans-serif"
+       font-size="55px"
+       font-weight="normal"
+       fill="#000000"
+       id="text61"
+       transform="rotate(28.579154)">interacts with</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1">
+    <g
+       transform="rotate(-13.876607,11679.737,-14334.865)"
+       id="g29">
+      <g
+         id="g28" />
+    </g>
+    <g
+       transform="rotate(-13.876607,11774.487,-13558.292)"
+       fill="#ffffff"
+       stroke="#ffffff"
+       stroke-width="0"
+       id="g27">
+      <rect
+         x="0"
+         y="0"
+         width="361.5"
+         height="65"
+         rx="5"
+         ry="5"
+         stroke="none"
+         id="rect26" />
+    </g>
+    <text
+       xml:space="preserve"
+       x="2905.0261"
+       y="3266.782"
+       stroke="none"
+       text-anchor="left"
+       font-family="sans-serif"
+       font-size="55px"
+       font-weight="normal"
+       fill="#000000"
+       id="text26"
+       transform="rotate(-13.876607)"><tspan
+   style="font-size:53.8667px"
+   id="tspan396">interacts with</tspan>  </text>
+  </g>
+  <text
+     xml:space="preserve"
+     x="3157.6597"
+     y="3883.3545"
+     stroke="none"
+     text-anchor="left"
+     font-family="sans-serif"
+     font-size="55px"
+     font-weight="normal"
+     fill="#000000"
+     id="text31"
+     transform="rotate(-20.444776)">interacts with  </text>
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;paint-order:fill markers stroke"
+     id="path396"
+     sodipodi:type="arc"
+     sodipodi:cx="2283.5234"
+     sodipodi:cy="-3986.3193"
+     sodipodi:rx="34.113098"
+     sodipodi:ry="49.764992"
+     sodipodi:start="0"
+     sodipodi:end="2.388212"
+     sodipodi:arc-type="slice"
+     d="m 2317.6365,-3986.3193 a 34.113098,49.764992 0 0 1 -21.5647,46.2758 34.113098,49.764992 0 0 1 -37.4298,-12.2312 l 24.8814,-34.0446 z"
+     transform="rotate(90)" />
+</svg>
