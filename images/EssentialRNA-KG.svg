@@ -9,6 +9,7 @@
    inkscape:version="1.3 (0e150ed, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -21,49 +22,57 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.15076264"
-     inkscape:cx="2911.8619"
+     inkscape:cx="2911.862"
      inkscape:cy="1847.2746"
      inkscape:window-width="1792"
-     inkscape:window-height="1120"
+     inkscape:window-height="976"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g144" />
+     inkscape:current-layer="g145"
+     inkscape:export-bgcolor="#ffffffff" />
   <defs
      id="defs1">
+    <color-profile
+       name="Black-White"
+       xlink:href="file:///Library/ColorSync/Profiles/Black%20&amp;%20White.icc"
+       id="color-profile1" />
+    <color-profile
+       name="_3DTV"
+       xlink:href="file:///Library/ColorSync/Profiles/Displays/3DTV-7D2DFB87-5889-83BC-BA15-9A82D56027E0.icc"
+       id="color-profile2" />
     <style
        type="text/css"
        id="style1" />
   </defs>
   <g
-     transform="translate(4529.126059083877 2606.5985366776304) scale(1)"
+     transform="translate(4529.1261,2606.5985)"
      id="g389">
     <g
        class="relationship"
        id="g5">
       <g
-         transform="translate(-565.2428709981116 43.386805439876866) rotate(178.92448956546605)"
+         transform="rotate(178.92449,-282.82505,19.040753)"
          stroke-width="8"
          stroke="#000000"
          id="g1">
         <path
-           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 609.9434771843823 -10 L 985.8392215974806 -10 A 40 40 0 0 1 987.5529825786173 -9.963270928435442 L 1046.3362000723305 -7.442446627872059 L 1046.3362000723305 -7.442446627872059"
+           d="m 139.87145,-5.9981634 92.46252,-3.9651075 A 40,40 0 0 1 234.04773,-10 h 375.89575 375.89574 a 40,40 0 0 1 1.71376,0.036729 l 58.78322,2.5208243 v 0"
            id="path1" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(1219.8869543687647 0) rotate(2.4555334077035282) translate(-140 0)"
+           transform="rotate(2.4555334,679.94348,25193.505)"
            stroke="none"
            id="polygon1" />
       </g>
       <g
-         transform="translate(-1174.8911911829225 64.83374124929936) rotate(358.92448956546605) translate(0 8)"
+         transform="rotate(-1.0755104,3292.52,62616.68)"
          id="g4">
         <g
-           transform="translate(0 0)"
            id="g3">
           <g
-             transform="translate(-167.10000610351562 0)"
+             transform="translate(-167.10001)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -71,7 +80,7 @@
             <rect
                x="0"
                y="0"
-               width="334.20001220703125"
+               width="334.20001"
                height="65"
                rx="5"
                ry="5"
@@ -80,11 +89,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text1">develops into</text>
@@ -96,28 +105,27 @@
        class="relationship"
        id="g10">
       <g
-         transform="translate(-1784.9149132852997 66.2842005340869) rotate(-1.0755104345339808)"
+         transform="rotate(-1.0755104,2638.604,95118.308)"
          stroke-width="8"
          stroke="#000000"
          id="g6">
         <path
-           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 609.9434771843823 -10 L 985.8392215974806 -10 A 40 40 0 0 1 987.5529825786173 -9.963270928435442 L 1046.3362000723305 -7.442446627872059 L 1046.3362000723305 -7.442446627872059"
+           d="m 139.87145,-5.9981634 92.46252,-3.9651075 A 40,40 0 0 1 234.04773,-10 h 375.89575 375.89574 a 40,40 0 0 1 1.71376,0.036729 l 58.78322,2.5208243 v 0"
            id="path5" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(1219.8869543687647 0) rotate(2.4555334077035282) translate(-140 0)"
+           transform="rotate(2.4555334,679.94348,25193.505)"
            stroke="none"
            id="polygon5" />
       </g>
       <g
-         transform="translate(-1175.2665931004888 44.83726472466427) rotate(-1.0755104345339808) translate(0 -73)"
+         transform="rotate(-1.0755104,-2087.9056,62667.18)"
          id="g9">
         <g
-           transform="translate(0 0)"
            id="g8">
           <g
-             transform="translate(-177.73333740234375 0)"
+             transform="translate(-177.73334)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -125,7 +133,7 @@
             <rect
                x="0"
                y="0"
-               width="355.4666748046875"
+               width="355.46667"
                height="65"
                rx="5"
                ry="5"
@@ -134,11 +142,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text6">develops from</text>
@@ -150,17 +158,17 @@
        class="relationship"
        id="g15">
       <g
-         transform="translate(-565.2428709981116 43.386805439876866) rotate(-123.09835491504471)"
+         transform="rotate(-123.09835,-270.86698,174.83038)"
          stroke-width="8"
          stroke="#000000"
          id="g11">
         <path
-           d="M 140 0 L 2059.802622297337 0"
+           d="M 140,0 H 2059.8026"
            id="path10" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(2093.512882007781 0) rotate(0)"
+           transform="translate(2093.5129)"
            stroke="none"
            id="polygon10" />
       </g>
@@ -218,28 +226,27 @@
        class="relationship"
        id="g20">
       <g
-         transform="translate(-1784.9149132852997 66.2842005340869) rotate(-90)"
+         transform="rotate(-90,-859.31536,925.59956)"
          stroke-width="8"
          stroke="#000000"
          id="g16">
         <path
-           d="M 140 0 L 1720.2777006311308 0"
+           d="M 140,0 H 1720.2777"
            id="path15" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(1753.9879603415748 0) rotate(0)"
+           transform="translate(1753.988)"
            stroke="none"
            id="polygon15" />
       </g>
       <g
-         transform="translate(-1784.9149132852997 -863.8546497814784) rotate(0) translate(0 -32.5)"
+         transform="translate(-1784.9149,-896.35465)"
          id="g19">
         <g
-           transform="translate(0 0)"
            id="g18">
           <g
-             transform="translate(-240.39999389648438 0)"
+             transform="translate(-240.39999)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -247,7 +254,7 @@
             <rect
                x="0"
                y="0"
-               width="480.79998779296875"
+               width="480.79999"
                height="65"
                rx="5"
                ry="5"
@@ -256,11 +263,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text16">regulates activity of</text>
@@ -272,28 +279,27 @@
        class="relationship"
        id="g25">
       <g
-         transform="translate(-1784.9149132852997 66.2842005340869) rotate(-126.0961058766608)"
+         transform="rotate(-126.09611,-875.60571,486.92948)"
          stroke-width="8"
          stroke="#000000"
          id="g21">
         <path
-           d="M 140 0 L 770.997680729022 0"
+           d="M 140,0 H 770.99768"
            id="path20" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(804.7079404394661 0) rotate(0)"
+           transform="translate(804.70794)"
            stroke="none"
            id="polygon20" />
       </g>
       <g
-         transform="translate(-2053.26815635255 -301.77249415941225) rotate(53.9038941233392) translate(0 -32.5)"
+         transform="rotate(53.903894,-697.9295,-2153.7035)"
          id="g24">
         <g
-           transform="translate(0 0)"
            id="g23">
           <g
-             transform="translate(-255.6666717529297 0)"
+             transform="translate(-255.66667)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -301,7 +307,7 @@
             <rect
                x="0"
                y="0"
-               width="511.3333435058594"
+               width="511.33334"
                height="65"
                rx="5"
                ry="5"
@@ -340,12 +346,12 @@
        class="relationship"
        id="g30">
       <g
-         transform="translate(314.59456066367943 -452.3822687750504) rotate(166.12339281673536)"
+         transform="rotate(166.12339,184.82286,-207.04937)"
          stroke-width="8"
          stroke="#000000"
          id="g26">
         <path
-           d="M 140 0 L 2022.6268604609363 0"
+           d="M 140,0 H 2022.6269"
            id="path25" />
       </g>
     </g>
@@ -357,7 +363,7 @@
          stroke="#000000"
          id="g31">
         <path
-           d="M -434.06156961989194 -5.515813802007401 L 288.5667375899321 -274.90189695270203 A 40 40 0 0 0 314.59456066367943 -312.3822687750504 L 314.59456066367943 -312.3822687750504 L 314.59456066367943 -312.3822687750504"
+           d="M -434.06157,-5.5158138 288.56674,-274.9019 a 40,40 0 0 0 26.02782,-37.48037 v 0 0"
            id="path30"
            style="fill:none" />
       </g>
@@ -389,22 +395,21 @@
        class="relationship"
        id="g40">
       <g
-         transform="translate(-1784.9149132852997 66.2842005340869) rotate(-179.99999999999997)"
+         transform="rotate(180,-892.45746,33.1421)"
          stroke-width="8"
          stroke="#000000"
          id="g36">
         <path
-           d="M 140 0 L 580.9760263843643 0"
+           d="M 140,0 H 580.97603"
            id="path35" />
       </g>
       <g
-         transform="translate(-2145.4029264774817 66.28420053408671) rotate(2.5444437451708134e-14) translate(0 -32.5)"
+         transform="translate(-2145.4029,33.784201)"
          id="g39">
         <g
-           transform="translate(0 0)"
            id="g38">
           <g
-             transform="translate(-180.75 0)"
+             transform="translate(-180.75)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -439,28 +444,27 @@
        class="relationship"
        id="g45">
       <g
-         transform="translate(-2535.890939669664 66.28420053408664) rotate(180)"
+         transform="rotate(180,-1267.9455,33.1421)"
          stroke-width="8"
          stroke="#000000"
          id="g41">
         <path
-           d="M 169.89412863785014 -5.998754402842493 L 282.5101605162091 -9.97508909125886 A 40 40 0 0 1 283.9216321404073 -10 L 531.2870030535587 -10 L 828.5262733358333 -10 A 40 40 0 0 1 830.24003431697 -9.963270928435442 L 889.0232518106833 -7.442446627872059 L 889.0232518106833 -7.442446627872059"
+           d="M 169.89413,-5.9987544 282.51016,-9.9750891 A 40,40 0 0 1 283.92163,-10 H 531.287 828.52627 a 40,40 0 0 1 1.71376,0.036729 l 58.78322,2.5208243 v 0"
            id="path40" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(1062.5740061071174 0) rotate(2.4555334077035282) translate(-140 0)"
+           transform="rotate(2.4555334,601.287,21523.432)"
            stroke="none"
            id="polygon40" />
       </g>
       <g
-         transform="translate(-3082.1779427232227 76.28420053408671) rotate(360) translate(0 8)"
+         transform="translate(-3082.1779,84.284201)"
          id="g44">
         <g
-           transform="translate(0 0)"
            id="g43">
           <g
-             transform="translate(-177.73333740234375 0)"
+             transform="translate(-177.73334)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -468,7 +472,7 @@
             <rect
                x="0"
                y="0"
-               width="355.4666748046875"
+               width="355.46667"
                height="65"
                rx="5"
                ry="5"
@@ -477,11 +481,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text41">develops from</text>
@@ -493,28 +497,27 @@
        class="relationship"
        id="g50">
       <g
-         transform="translate(-3598.4649457767814 66.2842005340869) rotate(-1.455919106031566e-14)"
+         transform="translate(-3598.4649,66.284201)"
          stroke-width="8"
          stroke="#000000"
          id="g46">
         <path
-           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 531.2870030535587 -10 L 778.65237396671 -10 A 40 40 0 0 1 780.0638455909083 -9.97508909125886 L 858.9906115889053 -7.188281278483615 L 858.9906115889053 -7.188281278483615"
+           d="m 139.87145,-5.9981634 92.46252,-3.9651075 A 40,40 0 0 1 234.04773,-10 H 531.287 778.65237 a 40,40 0 0 1 1.41148,0.024911 l 78.92676,2.7868078 v 0"
            id="path45" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(1062.5740061071174 0) rotate(2.0222039828146703) translate(-170 0)"
+           transform="rotate(2.022204,616.287,25286.972)"
            stroke="none"
            id="polygon45" />
       </g>
       <g
-         transform="translate(-3082.1779427232227 56.28420053408678) rotate(-1.455919106031566e-14) translate(0 -73)"
+         transform="translate(-3082.1779,-16.715799)"
          id="g49">
         <g
-           transform="translate(0 0)"
            id="g48">
           <g
-             transform="translate(-167.10000610351562 0)"
+             transform="translate(-167.10001)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -522,7 +525,7 @@
             <rect
                x="0"
                y="0"
-               width="334.20001220703125"
+               width="334.20001"
                height="65"
                rx="5"
                ry="5"
@@ -531,11 +534,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text46">develops into</text>
@@ -547,22 +550,21 @@
        class="relationship"
        id="g55">
       <g
-         transform="translate(-3598.4649457767814 66.2842005340869) rotate(-47.65486481602728)"
+         transform="rotate(-47.654865,-1724.1866,4107.2641)"
          stroke-width="8"
          stroke="#000000"
          id="g51">
         <path
-           d="M 140 0 L 853.9579874239163 0"
+           d="M 140,0 H 853.95799"
            id="path50" />
       </g>
       <g
-         transform="translate(-3263.7024030604143 -301.03331903858884) rotate(0) translate(0 -32.5)"
+         transform="translate(-3263.7024,-333.53332)"
          id="g54">
         <g
-           transform="translate(0 0)"
            id="g53">
           <g
-             transform="translate(-312.2166748046875 0)"
+             transform="translate(-312.21667)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -570,7 +572,7 @@
             <rect
                x="0"
                y="0"
-               width="624.433349609375"
+               width="624.43335"
                height="65"
                rx="5"
                ry="5"
@@ -579,11 +581,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text51">molecularly interacts with</text>
@@ -595,22 +597,21 @@
        class="relationship"
        id="g60">
       <g
-         transform="translate(-3598.4649457767814 -1608.9482126771727) rotate(112.05582999305398)"
+         transform="rotate(112.05583,-1257.1779,-2016.7967)"
          stroke-width="8"
          stroke="#000000"
          id="g56">
         <path
-           d="M 140 0 L 1107.8884263705022 0"
+           d="m 140,0 h 967.8884"
            id="path55" />
       </g>
       <g
-         transform="translate(-3832.762161976228 -1030.6652407261115) rotate(0) translate(6.761631601831789 -102.99315360132107)"
+         transform="translate(-3826.0005,-1133.6584)"
          id="g59">
         <g
-           transform="translate(0 0)"
            id="g58">
           <g
-             transform="translate(-361.5 0)"
+             transform="translate(-361.5)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -627,11 +628,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text56">interacts with  </text>
@@ -643,22 +644,21 @@
        class="relationship"
        id="g65">
       <g
-         transform="translate(-3598.4649457767814 -1608.9482126771727) rotate(28.57915410731716)"
+         transform="rotate(28.579154,1359.2457,-7868.5131)"
          stroke-width="8"
          stroke="#000000"
          id="g61">
         <path
-           d="M 140 0 L 3314.0768907221054 0"
+           d="M 140,0 H 3314.0769"
            id="path60" />
       </g>
       <g
-         transform="translate(-2081.8539083874466 -782.7807036186479) rotate(28.57915410731716) translate(0 -32.5)"
+         transform="rotate(28.579154,559.52622,-4461.9655)"
          id="g64">
         <g
-           transform="translate(0 0)"
            id="g63">
           <g
-             transform="translate(-165.48333740234375 0)"
+             transform="translate(-165.48334)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -666,7 +666,7 @@
             <rect
                x="0"
                y="0"
-               width="330.9666748046875"
+               width="330.96667"
                height="65"
                rx="5"
                ry="5"
@@ -680,12 +680,12 @@
        class="relationship"
        id="g70">
       <g
-         transform="translate(-3598.4649457767814 -1608.9482126771727) rotate(42.72961840502262)"
+         transform="rotate(42.729618,257.26062,-5403.8877)"
          stroke-width="8"
          stroke="#000000"
          id="g66">
         <path
-           d="M 140 0 L 2328.879778082253 0"
+           d="M 140,0 H 2328.8798"
            id="path65" />
       </g>
       <path
@@ -789,12 +789,12 @@
        class="relationship"
        id="g80">
       <g
-         transform="translate(-3598.4649457767814 -1608.9482126771727) rotate(16.46586893750648)"
+         transform="rotate(16.465869,3760.7901,-13239.645)"
          stroke-width="8"
          stroke="#000000"
          id="g76">
         <path
-           d="M 140 0 L 3940.4018777000715 0"
+           d="M 140,0 H 3940.4019"
            id="path75" />
       </g>
       <g
@@ -825,22 +825,21 @@
        class="relationship"
        id="g85">
       <g
-         transform="translate(-3598.4649457767814 -1608.9482126771727) rotate(-59.999999999999986)"
+         transform="rotate(-60,-3192.6225,2311.888)"
          stroke-width="8"
          stroke="#000000"
          id="g81">
         <path
-           d="M 140 0 L 460.5204122608736 0"
+           d="M 140,0 H 460.52041"
            id="path80" />
       </g>
       <g
-         transform="translate(-3448.334842711563 -1868.981178931683) rotate(0) translate(0 -32.5)"
+         transform="translate(-3448.3348,-1901.4812)"
          id="g84">
         <g
-           transform="translate(0 0)"
            id="g83">
           <g
-             transform="translate(-165.48333740234375 0)"
+             transform="translate(-165.48334)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -848,7 +847,7 @@
             <rect
                x="0"
                y="0"
-               width="330.9666748046875"
+               width="330.96667"
                height="65"
                rx="5"
                ry="5"
@@ -857,11 +856,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text81">interacts with</text>
@@ -873,22 +872,21 @@
        class="relationship"
        id="g90">
       <g
-         transform="translate(-3598.4649457767814 -1608.9482126771727) rotate(-24.046359482349875)"
+         transform="rotate(-24.046359,-5576.4708,7643.4422)"
          stroke-width="8"
          stroke="#000000"
          id="g86">
         <path
-           d="M 140 0 L 600.5268767979575 0"
+           d="M 140,0 H 600.52688"
            id="path85" />
       </g>
       <g
-         transform="translate(-3260.334428287316 -1759.8215600826718) rotate(0) translate(0 -32.5)"
+         transform="translate(-3260.3344,-1792.3216)"
          id="g89">
         <g
-           transform="translate(0 0)"
            id="g88">
           <g
-             transform="translate(-165.48333740234375 0)"
+             transform="translate(-165.48334)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -896,7 +894,7 @@
             <rect
                x="0"
                y="0"
-               width="330.9666748046875"
+               width="330.96667"
                height="65"
                rx="5"
                ry="5"
@@ -905,11 +903,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text86">interacts with</text>
@@ -921,22 +919,21 @@
        class="relationship"
        id="g95">
       <g
-         transform="translate(-3598.4649457767814 -1608.9482126771727) rotate(-6.877950077074496)"
+         transform="rotate(-6.8779501,-15186.246,29136.017)"
          stroke-width="8"
          stroke="#000000"
          id="g91">
         <path
-           d="M 140 0 L 1686.6958448932153 0"
+           d="M 140,0 H 1686.6958"
            id="path90" />
       </g>
       <g
-         transform="translate(-2691.6899295310404 -1718.3259862423301) rotate(-6.877950077074496) translate(0 -32.5)"
+         transform="rotate(-6.8779501,-15913.332,21552.892)"
          id="g94">
         <g
-           transform="translate(0 0)"
            id="g93">
           <g
-             transform="translate(-165.48333740234375 0)"
+             transform="translate(-165.48334)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -944,7 +941,7 @@
             <rect
                x="0"
                y="0"
-               width="330.9666748046875"
+               width="330.96667"
                height="65"
                rx="5"
                ry="5"
@@ -958,22 +955,21 @@
        class="relationship"
        id="g100">
       <g
-         transform="translate(-3598.4649457767814 -1608.9482126771727) rotate(90)"
+         transform="rotate(90,-994.75837,-2603.7066)"
          stroke-width="8"
          stroke="#000000"
          id="g96">
         <path
-           d="M 140 0 L 1535.2324132112597 0"
+           d="M 140,0 H 1535.2324"
            id="path95" />
       </g>
       <g
-         transform="translate(-3598.4649457767814 -771.3320060715429) rotate(0) translate(0 -32.5)"
+         transform="translate(-3598.4649,-803.83201)"
          id="g99">
         <g
-           transform="translate(0 0)"
            id="g98">
           <g
-             transform="translate(-165.48333740234375 0)"
+             transform="translate(-165.48334)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -981,7 +977,7 @@
             <rect
                x="0"
                y="0"
-               width="330.9666748046875"
+               width="330.96667"
                height="65"
                rx="5"
                ry="5"
@@ -990,11 +986,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text96">interacts with</text>
@@ -1006,22 +1002,21 @@
        class="relationship"
        id="g105">
       <g
-         transform="translate(-3598.4649457767814 -1608.9482126771727) rotate(35.72888148785869)"
+         transform="rotate(35.728881,696.76262,-6386.8482)"
          stroke-width="8"
          stroke="#000000"
          id="g101">
         <path
-           d="M 140 0 L 1373.8963527316128 0"
+           d="M 140,0 H 1373.8964"
            id="path100" />
       </g>
       <g
-         transform="translate(-2983.982535232384 -1166.9279542782315) rotate(35.72888148785869) translate(0 -32.5)"
+         transform="rotate(35.728881,368.70646,-5196.3286)"
          id="g104">
         <g
-           transform="translate(0 0)"
            id="g103">
           <g
-             transform="translate(-180.75 0)"
+             transform="translate(-180.75)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -1043,12 +1038,12 @@
        class="relationship"
        id="g110">
       <g
-         transform="translate(314.59456066367943 -452.3822687750504) rotate(180)"
+         transform="rotate(180,157.29728,-226.19113)"
          stroke-width="8"
          stroke="#000000"
          id="g106">
         <path
-           d="M 140 0 L 4241.653938839354 0"
+           d="M 140,0 H 4241.6539"
            id="path105" />
       </g>
       <path
@@ -1115,28 +1110,27 @@
        class="relationship"
        id="g115">
       <g
-         transform="translate(-1784.9149132852997 66.2842005340869) rotate(-38.58693017076733)"
+         transform="rotate(-38.58693,-797.78386,2582.5327)"
          stroke-width="8"
          stroke="#000000"
          id="g111">
         <path
-           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 1342.9765140793731 -10 L 2451.9052953874625 -10 A 40 40 0 0 1 2453.6190563685996 -9.963270928435442 L 2512.402273862312 -7.442446627872059 L 2512.402273862312 -7.442446627872059"
+           d="m 139.87145,-5.9981634 92.46252,-3.9651075 A 40,40 0 0 1 234.04773,-10 H 1342.9765 2451.9053 a 40,40 0 0 1 1.7138,0.036729 l 58.7832,2.5208243 v 0"
            id="path110" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(2685.9530281587463 0) rotate(2.4555334077035282) translate(-140 0)"
+           transform="rotate(2.4555334,1412.9765,59396.478)"
            stroke="none"
            id="polygon110" />
       </g>
       <g
-         transform="translate(-741.397189377117 -779.1486337338226) rotate(-38.58693017076733) translate(0 -73)"
+         transform="rotate(-38.58693,-1587.8209,705.86187)"
          id="g114">
         <g
-           transform="translate(0 0)"
            id="g113">
           <g
-             transform="translate(-408.6000061035156 0)"
+             transform="translate(-408.60001)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -1144,7 +1138,7 @@
             <rect
                x="0"
                y="0"
-               width="817.2000122070312"
+               width="817.20001"
                height="65"
                rx="5"
                ry="5"
@@ -1153,11 +1147,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text111">is up/downstream of sequence of</text>
@@ -1169,28 +1163,27 @@
        class="relationship"
        id="g120">
       <g
-         transform="translate(314.59456066367943 -1608.9482126771727) rotate(141.41306982923268)"
+         transform="rotate(141.41307,438.9171,-749.40952)"
          stroke-width="8"
          stroke="#000000"
          id="g116">
         <path
-           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 1342.9765140793731 -10 L 2451.9052953874625 -10 A 40 40 0 0 1 2453.6190563685996 -9.963270928435442 L 2512.402273862312 -7.442446627872059 L 2512.402273862312 -7.442446627872059"
+           d="m 139.87145,-5.9981634 92.46252,-3.9651075 A 40,40 0 0 1 234.04773,-10 H 1342.9765 2451.9053 a 40,40 0 0 1 1.7138,0.036729 l 58.7832,2.5208243 v 0"
            id="path115" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(2685.9530281587463 0) rotate(2.4555334077035282) translate(-140 0)"
+           transform="rotate(2.4555334,1412.9765,59396.478)"
            stroke="none"
            id="polygon115" />
       </g>
       <g
-         transform="translate(-728.9231632445033 -763.5153784092631) rotate(321.4130698292327) translate(0 8)"
+         transform="rotate(-38.58693,-1443.5628,655.36187)"
          id="g119">
         <g
-           transform="translate(0 0)"
            id="g118">
           <g
-             transform="translate(-408.6000061035156 0)"
+             transform="translate(-408.60001)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -1198,7 +1191,7 @@
             <rect
                x="0"
                y="0"
-               width="817.2000122070312"
+               width="817.20001"
                height="65"
                rx="5"
                ry="5"
@@ -1207,11 +1200,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text116">is down/upstream of sequence of</text>
@@ -1227,23 +1220,22 @@
          stroke="#000000"
          id="g121">
         <path
-           d="M -565.2428709981116 -96.61319456012313 L -565.2428709981116 -96.61319456012315 A 40 40 0 0 1 -559.7541961661145 -116.8361625704912 L 226.7711350337535 -1459.0739312300384 L 226.7711350337535 -1459.0739312300384"
+           d="m -565.24287,-96.613195 v 0 a 40,40 0 0 1 5.48867,-20.222965 L 226.77114,-1459.0739 v 0"
            id="path120" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(226.7711350337535 -1459.0739312300384) rotate(-59.63052352396266) translate(33.71025971044415 0)"
+           transform="rotate(-59.630524,-1176.5265,-956.80965)"
            stroke="none"
            id="polygon120" />
       </g>
       <g
-         transform="translate(-169.23586798217906 -783.2717224304993) rotate(-59.63052352396266) translate(0 -73)"
+         transform="rotate(-59.630524,-831.72377,-207.47584)"
          id="g124">
         <g
-           transform="translate(0 0)"
            id="g123">
           <g
-             transform="translate(-423.8666687011719 0)"
+             transform="translate(-423.86667)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -1251,7 +1243,7 @@
             <rect
                x="0"
                y="0"
-               width="847.7333374023438"
+               width="847.73334"
                height="65"
                rx="5"
                ry="5"
@@ -1260,11 +1252,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text121">is up/downstream of sequence of  </text>
@@ -1280,24 +1272,23 @@
          stroke="#000000"
          id="g126">
         <path
-           d="M -425.2428709981116 43.386805439876866 L -425.2428709981115 43.386805439876866 A 40 40 0 0 0 -388.5206381437203 19.244851163983867 L 245.72692963281128 -1449.47249752008 L 245.72692963281128 -1449.47249752008"
+           d="m -425.24287,43.386805 v 0 a 40,40 0 0 0 36.72223,-24.141954 L 245.72693,-1449.4725 v 0"
            id="path125"
            style="fill:none" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(245.72692963281128 -1449.47249752008) rotate(-66.64349108168908) translate(33.71025971044415 0)"
+           transform="rotate(-66.643491,-996.38516,-937.26166)"
            stroke="none"
            id="polygon125" />
       </g>
       <g
-         transform="translate(-76.60955763727827 -703.0428460401016) rotate(-66.64349108168908) translate(0 8)"
+         transform="rotate(-66.643491,-566.91827,-297.25617)"
          id="g129">
         <g
-           transform="translate(0 0)"
            id="g128">
           <g
-             transform="translate(-294 0)"
+             transform="translate(-294)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -1314,11 +1305,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text126">involved in regulation of</text>
@@ -1330,17 +1321,17 @@
        class="relationship"
        id="g135">
       <g
-         transform="translate(314.59456066367943 -1608.9482126771727) rotate(118.0344646586586)"
+         transform="rotate(118.03446,640.34484,-710.02474)"
          stroke-width="8"
          stroke="#000000"
          id="g131">
         <path
-           d="M 140 0 L 1698.273959840855 0"
+           d="M 140,0 H 1698.274"
            id="path130" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(1731.984219551299 0) rotate(0)"
+           transform="translate(1731.9842)"
            stroke="none"
            id="polygon130" />
       </g>
@@ -1448,17 +1439,17 @@
        class="relationship"
        id="g145">
       <g
-         transform="translate(-4067.0593781756747 66.28420053408664) rotate(-90)"
+         transform="rotate(-90,-2000.3876,2066.6718)"
          stroke-width="8"
          stroke="#000000"
          id="g141">
         <path
-           d="M 140 0 L 344.9562095986929 0"
+           d="M 140,0 H 344.95621"
            id="path140" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(378.666469309137 0) rotate(0)"
+           transform="translate(378.66647)"
            stroke="none"
            id="polygon140" />
       </g>
@@ -1523,28 +1514,27 @@
        class="relationship"
        id="g150">
       <g
-         transform="translate(-532.6662342761198 -2396.218133322047) rotate(155.5821989674387)"
+         transform="rotate(155.5822,-7.0979428,-1255.7356)"
          stroke-width="8"
          stroke="#000000"
          id="g146">
         <path
-           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 687.6291418658911 -10 L 1141.2105509604983 -10 A 40 40 0 0 1 1142.9243119416349 -9.963270928435442 L 1201.707529435348 -7.442446627872059 L 1201.707529435348 -7.442446627872059"
+           d="m 139.87145,-5.9981634 92.46252,-3.9651075 A 40,40 0 0 1 234.04773,-10 h 453.58141 453.58146 a 40,40 0 0 1 1.7137,0.036729 l 58.7832,2.5208243 v 0"
            id="path145" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(1375.2582837317823 0) rotate(2.4555334077035282) translate(-140 0)"
+           transform="rotate(2.4555334,757.62914,28818.282)"
            stroke="none"
            id="polygon145" />
       </g>
       <g
-         transform="translate(-1154.6567003095251 -2102.855393856434) rotate(335.5821989674387) translate(0 8)"
+         transform="rotate(-24.417801,-5418.2325,1612.8149)"
          id="g149">
         <g
-           transform="translate(0 0)"
            id="g148">
           <g
-             transform="translate(-296.9666748046875 0)"
+             transform="translate(-296.96667)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -1552,7 +1542,7 @@
             <rect
                x="0"
                y="0"
-               width="593.933349609375"
+               width="593.93335"
                height="65"
                rx="5"
                ry="5"
@@ -1561,11 +1551,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text146">represses expression of</text>
@@ -1577,28 +1567,27 @@
        class="relationship"
        id="g155">
       <g
-         transform="translate(-532.6662342761198 -2396.218133322047) rotate(155.5821989674387)"
+         transform="rotate(155.5822,-7.0979428,-1255.7356)"
          stroke-width="8"
          stroke="#000000"
          id="g151">
         <path
-           d="M 139.87144824952406 5.998163433978463 L 232.33397179014736 9.963270928435442 A 40 40 0 0 0 234.04773277128407 10 L 687.6291418658911 10 L 1141.2105509604983 10 A 40 40 0 0 0 1142.9243119416349 9.963270928435442 L 1201.707529435348 7.442446627872059 L 1201.707529435348 7.442446627872059"
+           d="m 139.87145,5.9981634 92.46252,3.9651075 A 40,40 0 0 0 234.04773,10 h 453.58141 453.58146 a 40,40 0 0 0 1.7137,-0.036729 l 58.7832,-2.5208243 v 0"
            id="path150" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(1375.2582837317823 0) rotate(-2.4555334077035282) translate(-140 0)"
+           transform="rotate(-2.4555334,757.62914,-28818.282)"
            stroke="none"
            id="polygon150" />
       </g>
       <g
-         transform="translate(-1162.9244472518942 -2121.066499273101) rotate(335.5821989674387) translate(0 -73)"
+         transform="rotate(-24.417801,-5651.6287,1663.3149)"
          id="g154">
         <g
-           transform="translate(0 0)"
            id="g153">
           <g
-             transform="translate(-405.6333312988281 0)"
+             transform="translate(-405.63333)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -1606,7 +1595,7 @@
             <rect
                x="0"
                y="0"
-               width="811.2666625976562"
+               width="811.26666"
                height="65"
                rx="5"
                ry="5"
@@ -1615,11 +1604,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text151">involved in negative regulation of</text>
@@ -1635,13 +1624,13 @@
          stroke="#000000"
          id="g156">
         <path
-           d="M -392.6662342761198 -2396.218133322047 L -392.6662342761198 -2396.218133322047 A 40 40 0 0 1 -362.5679657215608 -2382.563801467259 L 200.18173926992975 -1739.657663863351 L 200.18173926992975 -1739.657663863351"
+           d="m -392.66623,-2396.2181 v 0 a 40,40 0 0 1 30.09826,13.6543 l 562.74971,642.9061 v 0"
            id="path155"
            style="fill:none" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(200.18173926992975 -1739.657663863351) rotate(48.80363651647884) translate(33.71025971044415 0)"
+           transform="rotate(48.803637,2000.601,-612.04455)"
            stroke="none"
            id="polygon155" />
       </g>
@@ -1689,24 +1678,23 @@
          stroke="#000000"
          id="g161">
         <path
-           d="M -532.6662342761198 -2256.218133322047 L -532.6662342761198 -2256.218133322047 A 40 40 0 0 0 -516.4633516923105 -2224.0669715595222 L 174.96989416966272 -1712.2932988453335 L 174.96989416966272 -1712.2932988453335"
+           d="m -532.66623,-2256.2181 v 0 a 40,40 0 0 0 16.20288,32.1511 l 691.43324,511.7737 v 0"
            id="path160"
            style="fill:none" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(174.96989416966272 -1712.2932988453335) rotate(36.50749494837325) translate(33.71025971044415 0)"
+           transform="rotate(36.507495,2666.4054,-539.79498)"
            stroke="none"
            id="polygon160" />
       </g>
       <g
-         transform="translate(-178.8481700532285 -1974.1765265953059) rotate(36.50749494837325) translate(0 8)"
+         transform="rotate(36.507495,2891.2294,-1262.2157)"
          id="g164">
         <g
-           transform="translate(0 0)"
            id="g163">
           <g
-             transform="translate(-140.98333740234375 0)"
+             transform="translate(-140.98334)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -1714,7 +1702,7 @@
             <rect
                x="0"
                y="0"
-               width="281.9666748046875"
+               width="281.96667"
                height="65"
                rx="5"
                ry="5"
@@ -1723,11 +1711,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text161">is carrier of</text>
@@ -1739,17 +1727,17 @@
        class="relationship"
        id="g170">
       <g
-         transform="translate(-1784.9149132852997 -2471.5985366776304) rotate(90)"
+         transform="rotate(90,343.34181,-2128.2567)"
          stroke-width="8"
          stroke="#000000"
          id="g166">
         <path
-           d="M 140 0 L 470.18451715969843 0"
+           d="M 140,0 H 470.18452"
            id="path165" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(503.89477687014255 0) rotate(0)"
+           transform="translate(503.89478)"
            stroke="none"
            id="polygon165" />
       </g>
@@ -1792,17 +1780,17 @@
        class="relationship"
        id="g175">
       <g
-         transform="translate(-2721.1681584187413 -2217.6810482939723) rotate(22.613178169759664)"
+         transform="rotate(22.613178,4185.3013,-7913.8258)"
          stroke-width="8"
          stroke="#000000"
          id="g171">
         <path
-           d="M 140 0 L 840.5147767376664 0"
+           d="M 140,0 H 840.51478"
            id="path170" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(874.2250364481105 0) rotate(0)"
+           transform="translate(874.22504)"
            stroke="none"
            id="polygon170" />
       </g>
@@ -1871,12 +1859,12 @@
        class="relationship"
        id="g180">
       <g
-         transform="translate(611.4786386247822 -2351.525584984911) rotate(111.79163962303618)"
+         transform="rotate(111.79164,1101.9157,-968.72918)"
          stroke-width="8"
          stroke="#000000"
          id="g176">
         <path
-           d="M 140 0 L 659.7257715056326 0"
+           d="M 140,0 H 659.72577"
            id="path175" />
       </g>
       <g
@@ -1918,28 +1906,27 @@
        class="relationship"
        id="g185">
       <g
-         transform="translate(-1207.4058842791862 -1259.9413480330338) rotate(-12.915101703922186)"
+         transform="rotate(-12.915102,-6169.5437,4703.7926)"
          stroke-width="8"
          stroke="#000000"
          id="g181">
         <path
-           d="M 144.87587978085796 -5.998287899258956 L 240.70172408781426 -9.965759939547018 A 40 40 0 0 1 242.35642419795465 -10 L 780.7514242662343 -10 L 1327.4551157611845 -10 A 40 40 0 0 1 1329.1688767423211 -9.963270928435442 L 1387.9520942360346 -7.442446627872059 L 1387.9520942360346 -7.442446627872059"
+           d="m 144.87588,-5.9982879 95.82584,-3.967472 A 40,40 0 0 1 242.35642,-10 h 538.395 546.70368 a 40,40 0 0 1 1.7138,0.036729 l 58.7832,2.5208243 v 0"
            id="path180" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(1561.5028485324685 0) rotate(2.4555334077035282) translate(-140 0)"
+           transform="rotate(2.4555334,850.75142,33163.323)"
            stroke="none"
            id="polygon180" />
       </g>
       <g
-         transform="translate(-446.20397631853916 -1444.7505711041647) rotate(-12.915101703922186) translate(0 -73)"
+         transform="rotate(-12.915102,-6927.8252,1285.2485)"
          id="g184">
         <g
-           transform="translate(0 0)"
            id="g183">
           <g
-             transform="translate(-370.3666687011719 0)"
+             transform="translate(-370.36667)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -1947,7 +1934,7 @@
             <rect
                x="0"
                y="0"
-               width="740.7333374023438"
+               width="740.73334"
                height="65"
                rx="5"
                ry="5"
@@ -1956,11 +1943,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text181">is downstream of sequence of</text>
@@ -1972,28 +1959,27 @@
        class="relationship"
        id="g190">
       <g
-         transform="translate(314.59456066367943 -1608.9482126771727) rotate(167.08489829607785)"
+         transform="rotate(167.0849,248.35182,-786.67039)"
          stroke-width="8"
          stroke="#000000"
          id="g186">
         <path
-           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 780.7514242662343 -10 L 1319.1464243345138 -10 A 40 40 0 0 1 1320.8011244446543 -9.965759939547018 L 1382.9455650744258 -7.392797160652292 L 1382.9455650744258 -7.392797160652292"
+           d="m 139.87145,-5.9981634 92.46252,-3.9651075 A 40,40 0 0 1 234.04773,-10 h 546.70369 538.39498 a 40,40 0 0 1 1.6547,0.03424 l 62.1445,2.5729627 v 0"
            id="path185" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(1561.5028485324685 0) rotate(2.3708598419206477) translate(-145 0)"
+           transform="rotate(2.3708598,853.25142,34227.268)"
            stroke="none"
            id="polygon185" />
       </g>
       <g
-         transform="translate(-441.7338357104429 -1425.256524758066) rotate(347.0848982960779) translate(0 8)"
+         transform="rotate(-12.915102,-6481.6537,1234.7485)"
          id="g189">
         <g
-           transform="translate(0 0)"
            id="g188">
           <g
-             transform="translate(-335.20001220703125 0)"
+             transform="translate(-335.20001)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -2001,7 +1987,7 @@
             <rect
                x="0"
                y="0"
-               width="670.4000244140625"
+               width="670.40002"
                height="65"
                rx="5"
                ry="5"
@@ -2010,11 +1996,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text186">is upstream of sequence of</text>
@@ -2026,22 +2012,21 @@
        class="relationship"
        id="g195">
       <g
-         transform="translate(-1784.9149132852997 66.2842005340869) rotate(-63.71001697414411)"
+         transform="rotate(-63.710017,-839.11913,1469.4477)"
          stroke-width="8"
          stroke="#000000"
          id="g191">
         <path
-           d="M 140 0 L 687.633216020448 0"
+           d="M 140,0 H 687.63322"
            id="path190" />
       </g>
       <g
-         transform="translate(-1601.629557092528 -304.7288225127817) rotate(0) translate(0 -32.5)"
+         transform="translate(-1601.6296,-337.22882)"
          id="g194">
         <g
-           transform="translate(0 0)"
            id="g193">
           <g
-             transform="translate(-165.48333740234375 0)"
+             transform="translate(-165.48334)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -2049,7 +2034,7 @@
             <rect
                x="0"
                y="0"
-               width="330.9666748046875"
+               width="330.96667"
                height="65"
                rx="5"
                ry="5"
@@ -2058,11 +2043,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text191">interacts with</text>
@@ -2074,12 +2059,12 @@
        class="relationship"
        id="g200">
       <g
-         transform="translate(-565.2428709981116 43.386805439876866) rotate(-139.87051568489852)"
+         transform="rotate(-139.87052,-274.69791,124.921)"
          stroke-width="8"
          stroke="#000000"
          id="g196">
         <path
-           d="M 140 0 L 975.7633690744444 0"
+           d="M 140,0 H 975.76337"
            id="path195" />
       </g>
       <g
@@ -2121,22 +2106,21 @@
        class="relationship"
        id="g205">
       <g
-         transform="translate(314.59456066367943 -452.3822687750504) rotate(-146.77247450839954)"
+         transform="rotate(-146.77247,89.807609,-273.12463)"
          stroke-width="8"
          stroke="#000000"
          id="g201">
         <path
-           d="M 140 0 L 2369.8703621695695 0"
+           d="M 140,0 H 2369.8704"
            id="path200" />
       </g>
       <g
-         transform="translate(-735.1601763108101 -1140.0430142912692) rotate(33.22752549160045) translate(0 -32.5)"
+         transform="rotate(33.227525,1597.3045,-1785.7135)"
          id="g204">
         <g
-           transform="translate(0 0)"
            id="g203">
           <g
-             transform="translate(-180.75 0)"
+             transform="translate(-180.75)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -2182,22 +2166,21 @@
        class="relationship"
        id="g210">
       <g
-         transform="translate(-2820.0729534073075 -1537.9031836297645) rotate(15.791172147545824)"
+         transform="rotate(15.791172,4134.6365,-10936.29)"
          stroke-width="8"
          stroke="#000000"
          id="g206">
         <path
-           d="M 140 0 L 771.3909597269967 0"
+           d="M 140,0 H 771.39096"
            id="path205" />
       </g>
       <g
-         transform="translate(-2381.575451161043 -1413.893865867706) rotate(15.791172147545824) translate(0 -32.5)"
+         transform="rotate(15.791172,4023.9625,-9277.1003)"
          id="g209">
         <g
-           id="g208"
-           transform="translate(0 0)">
+           id="g208">
           <g
-             transform="translate(-281.73333740234375 0)"
+             transform="translate(-281.73334)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -2205,7 +2188,7 @@
             <rect
                x="0"
                y="0"
-               width="563.4666748046875"
+               width="563.46667"
                height="65"
                rx="5"
                ry="5"
@@ -2232,28 +2215,27 @@
        class="relationship"
        id="g215">
       <g
-         transform="translate(-1784.9149132852997 -1827.7037598074878) rotate(5.948392264832732)"
+         transform="rotate(5.9483923,16696.436,-18090.967)"
          stroke-width="8"
          stroke="#000000"
          id="g211">
         <path
-           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 1055.4375894151442 -10 L 1876.8274460590044 -10 A 40 40 0 0 1 1878.541207040141 -9.963270928435442 L 1937.3244245338542 -7.442446627872059 L 1937.3244245338542 -7.442446627872059"
+           d="m 139.87145,-5.9981634 92.46252,-3.9651075 A 40,40 0 0 1 234.04773,-10 h 821.38987 821.3898 a 40,40 0 0 1 1.7138,0.036729 l 58.7832,2.5208243 v 0"
            id="path210" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(2110.8751788302884 0) rotate(2.4555334077035282) translate(-140 0)"
+           transform="rotate(2.4555334,1125.4376,45980.048)"
            stroke="none"
            id="polygon210" />
       </g>
       <g
-         transform="translate(-734.1238500072741 -1728.2721426754756) rotate(5.948392264832732) translate(0 -73)"
+         transform="rotate(5.9483923,16967.467,-7892.4713)"
          id="g214">
         <g
-           transform="translate(0 0)"
            id="g213">
           <g
-             transform="translate(-301.5333251953125 0)"
+             transform="translate(-301.53333)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -2261,7 +2243,7 @@
             <rect
                x="0"
                y="0"
-               width="603.066650390625"
+               width="603.06665"
                height="65"
                rx="5"
                ry="5"
@@ -2270,11 +2252,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text211">ribosomally translates to</text>
@@ -2286,28 +2268,27 @@
        class="relationship"
        id="g220">
       <g
-         transform="translate(314.59456066367943 -1608.9482126771727) rotate(-174.0516077351673)"
+         transform="rotate(-174.05161,115.49987,-812.64667)"
          stroke-width="8"
          stroke="#000000"
          id="g216">
         <path
-           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 1055.4375894151442 -10 L 1876.8274460590044 -10 A 40 40 0 0 1 1878.541207040141 -9.963270928435442 L 1937.3244245338542 -7.442446627872059 L 1937.3244245338542 -7.442446627872059"
+           d="m 139.87145,-5.9981634 92.46252,-3.9651075 A 40,40 0 0 1 234.04773,-10 h 821.38987 821.3898 a 40,40 0 0 1 1.7138,0.036729 l 58.7832,2.5208243 v 0"
            id="path215" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(2110.8751788302884 0) rotate(2.4555334077035282) translate(-140 0)"
+           transform="rotate(2.4555334,1125.4376,45980.048)"
            stroke="none"
            id="polygon215" />
       </g>
       <g
-         transform="translate(-736.1965026143462 -1708.3798298091847) rotate(5.948392264832717) translate(0 8)"
+         transform="rotate(5.9483923,15995.494,-7942.9713)"
          id="g219">
         <g
-           transform="translate(0 0)"
            id="g218">
           <g
-             transform="translate(-289.3333435058594 0)"
+             transform="translate(-289.33334)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -2315,7 +2296,7 @@
             <rect
                x="0"
                y="0"
-               width="578.6666870117188"
+               width="578.66669"
                height="65"
                rx="5"
                ry="5"
@@ -2324,11 +2305,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text216">ribosomal translation of</text>
@@ -2340,22 +2321,21 @@
        class="relationship"
        id="g225">
       <g
-         transform="translate(-2820.0729534073075 -1537.9031836297645) rotate(-15.640004773550475)"
+         transform="rotate(-15.640005,-7008.9824,9497.9079)"
          stroke-width="8"
          stroke="#000000"
          id="g221">
         <path
-           d="M 140 0 L 934.9588559485319 0"
+           d="M 140,0 H 934.95886"
            id="path220" />
       </g>
       <g
-         transform="translate(-2302.4939333463035 -1682.803471718626) rotate(-15.640004773550475) translate(0 -32.5)"
+         transform="rotate(-15.640005,-7396.0428,7557.3909)"
          id="g224">
         <g
-           id="g223"
-           transform="translate(0 0)">
+           id="g223">
           <g
-             transform="translate(-180.75 0)"
+             transform="translate(-180.75)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -2390,22 +2370,21 @@
        class="relationship"
        id="g230">
       <g
-         transform="translate(-3598.4649457767814 -1608.9482126771727) rotate(64.42207819504698)"
+         transform="rotate(64.422078,-522.29495,-3660.3864)"
          stroke-width="8"
          stroke="#000000"
          id="g226">
         <path
-           d="M 140 0 L 695.8375873602989 0"
+           d="M 140,0 H 695.83759"
            id="path225" />
       </g>
       <g
-         transform="translate(-3418.0334350740254 -1231.9858961830798) rotate(0) translate(0 -32.5)"
+         transform="translate(-3418.0334,-1264.4859)"
          id="g229">
         <g
-           transform="translate(0 0)"
            id="g228">
           <g
-             transform="translate(-173.11666870117188 0)"
+             transform="translate(-173.11667)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -2413,7 +2392,7 @@
             <rect
                x="0"
                y="0"
-               width="346.23333740234375"
+               width="346.23334"
                height="65"
                rx="5"
                ry="5"
@@ -2422,11 +2401,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text226">interacts with </text>
@@ -2449,13 +2428,11 @@
            sodipodi:nodetypes="cssccscc" />
       </g>
       <g
-         transform="translate(494.59456066367943 -1030.6652407261117) rotate(0) translate(7.999999999999995 -32.49999999999997)"
+         transform="translate(502.59456,-1063.1652)"
          id="g234">
         <g
-           transform="translate(0 0)"
            id="g233">
           <g
-             transform="translate(0 0)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -2463,7 +2440,7 @@
             <rect
                x="0"
                y="0"
-               width="330.9666748046875"
+               width="330.96667"
                height="65"
                rx="5"
                ry="5"
@@ -2496,28 +2473,27 @@
        class="relationship"
        id="g240">
       <g
-         transform="translate(314.59456066367943 -1608.9482126771727) rotate(-137.10193772883338)"
+         transform="rotate(-137.10194,-158.7671,-866.27357)"
          stroke-width="8"
          stroke="#000000"
          id="g236">
         <path
-           d="M 185 0 L 982.8556841916783 0"
+           d="M 185,0 H 982.85568"
            id="path235" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(1016.5659439021224 0) rotate(0)"
+           transform="translate(1016.5659)"
            stroke="none"
            id="polygon235" />
       </g>
       <g
-         transform="translate(-113.17107629810812 -2006.4256140591626) rotate(42.89806227116661) translate(0 -32.5)"
+         transform="rotate(42.898062,2538.2384,-1130.9892)"
          id="g239">
         <g
-           transform="translate(0 0)"
            id="g238">
           <g
-             transform="translate(-310.8166809082031 0)"
+             transform="translate(-310.81668)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -2525,7 +2501,7 @@
             <rect
                x="0"
                y="0"
-               width="621.6333618164062"
+               width="621.63336"
                height="65"
                rx="5"
                ry="5"
@@ -2552,28 +2528,27 @@
        class="relationship"
        id="g245">
       <g
-         transform="translate(314.59456066367943 -1608.9482126771727) rotate(90)"
+         transform="rotate(90,961.77139,-647.17683)"
          stroke-width="8"
          stroke="#000000"
          id="g241">
         <path
-           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 578.2829719510612 -10 L 922.5182111308383 -10 A 40 40 0 0 1 924.231972111975 -9.963270928435442 L 983.0151896056883 -7.442446627872059 L 983.0151896056883 -7.442446627872059"
+           d="m 139.87145,-5.9981634 92.46252,-3.9651075 A 40,40 0 0 1 234.04773,-10 h 344.23524 344.23524 a 40,40 0 0 1 1.71376,0.036729 l 58.78322,2.5208243 v 0"
            id="path240" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(1156.5659439021224 0) rotate(2.4555334077035282) translate(-140 0)"
+           transform="rotate(2.4555334,648.28297,23716.241)"
            stroke="none"
            id="polygon240" />
       </g>
       <g
-         transform="translate(324.5945606636795 -1030.6652407261115) rotate(270) translate(0 8)"
+         transform="rotate(-90,-349.03534,-681.6299)"
          id="g244">
         <g
-           transform="translate(0 0)"
            id="g243">
           <g
-             transform="translate(-196.13333129882812 0)"
+             transform="translate(-196.13333)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -2581,7 +2556,7 @@
             <rect
                x="0"
                y="0"
-               width="392.26666259765625"
+               width="392.26666"
                height="65"
                rx="5"
                ry="5"
@@ -2590,11 +2565,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text241">gene product of</text>
@@ -2606,28 +2581,27 @@
        class="relationship"
        id="g250">
       <g
-         transform="translate(314.59456066367943 -452.3822687750504) rotate(-90)"
+         transform="rotate(-90,-68.893854,-383.48841)"
          stroke-width="8"
          stroke="#000000"
          id="g246">
         <path
-           d="M 139.87144824952406 -5.998163433978463 L 232.33397179014736 -9.963270928435442 A 40 40 0 0 1 234.04773277128407 -10 L 578.2829719510612 -10 L 922.5182111308383 -10 A 40 40 0 0 1 924.231972111975 -9.963270928435442 L 983.0151896056883 -7.442446627872059 L 983.0151896056883 -7.442446627872059"
+           d="m 139.87145,-5.9981634 92.46252,-3.9651075 A 40,40 0 0 1 234.04773,-10 h 344.23524 344.23524 a 40,40 0 0 1 1.71376,0.036729 l 58.78322,2.5208243 v 0"
            id="path245" />
         <polygon
-           points="-33.71025971044415,0 -37.45584412271572,12.485281374238571 0,0 -37.45584412271572,-12.485281374238571"
+           points="0,0 -37.455844,-12.485281 -33.71026,0 -37.455844,12.485281 "
            fill="#000000"
-           transform="translate(1156.5659439021224 0) rotate(2.4555334077035282) translate(-140 0)"
+           transform="rotate(2.4555334,648.28297,23716.241)"
            stroke="none"
            id="polygon245" />
       </g>
       <g
-         transform="translate(304.5945606636795 -1030.6652407261117) rotate(90) translate(0 8)"
+         transform="rotate(90,663.6299,-367.03534)"
          id="g249">
         <g
-           transform="translate(0 0)"
            id="g248">
           <g
-             transform="translate(-217.5500030517578 0)"
+             transform="translate(-217.55)"
              fill="#ffffff"
              stroke="#ffffff"
              stroke-width="0"
@@ -2635,7 +2609,7 @@
             <rect
                x="0"
                y="0"
-               width="435.1000061035156"
+               width="435.10001"
                height="65"
                rx="5"
                ry="5"
@@ -2644,11 +2618,11 @@
             <text
                xml:space="preserve"
                x="5"
-               y="47.821044921875"
+               y="47.821045"
                stroke="none"
                text-anchor="left"
                font-family="sans-serif"
-               font-size="55"
+               font-size="55px"
                font-weight="normal"
                fill="#000000"
                id="text246">has gene product</text>
@@ -2665,8 +2639,8 @@
          stroke-width="5"
          id="g251">
         <circle
-           cx="611.4786386247822"
-           cy="-2351.525584984911"
+           cx="611.47864"
+           cy="-2351.5256"
            r="132.5"
            id="circle250" />
       </g>
@@ -2700,18 +2674,18 @@
        class="node"
        id="g262">
       <g
-         fill="#B0CDF1"
+         fill="#b0cdf1"
          stroke="#8b0000"
          stroke-width="5"
          id="g257">
         <circle
-           cx="314.59456066367943"
-           cy="-1608.9482126771727"
+           cx="314.59457"
+           cy="-1608.9482"
            r="132.5"
            id="circle256" />
       </g>
       <g
-         transform="translate(314.59456066367943 -1608.9482126771727)"
+         transform="translate(314.59456,-1608.9482)"
          id="g261">
         <g
            transform="matrix(0.62601935,0,0,0.6953128,2.7142192,0)"
@@ -2745,23 +2719,21 @@
          stroke-width="5"
          id="g263">
         <circle
-           cx="-532.6662342761198"
-           cy="-2396.218133322047"
+           cx="-532.66626"
+           cy="-2396.218"
            r="132.5"
            id="circle262" />
       </g>
       <g
-         transform="translate(-532.6662342761198 -2396.218133322047)"
+         transform="translate(-532.66623,-2396.2181)"
          id="g267">
         <g
-           transform="scale(1) translate(0 0)"
            id="g266">
           <g
-             transform="translate(0 0)"
              id="g265">
             <g
                font-family="sans-serif"
-               font-size="100"
+               font-size="100px"
                font-weight="bold"
                fill="#000000"
                text-anchor="middle"
@@ -2769,7 +2741,7 @@
               <text
                  xml:space="preserve"
                  x="0"
-                 y="28.3935546875"
+                 y="28.393555"
                  stroke="none"
                  id="text263">ASO</text>
             </g>
@@ -2781,28 +2753,27 @@
        class="node"
        id="g274">
       <g
-         fill="#D2E3AE"
+         fill="#d2e3ae"
          stroke="#00008b"
          stroke-width="5"
          id="g269">
         <circle
-           cx="-1784.9149132852997"
-           cy="-1827.7037598074878"
+           cx="-1784.9149"
+           cy="-1827.7037"
            r="132.5"
            id="circle268" />
       </g>
       <g
-         transform="translate(-1784.9149132852997 -1827.7037598074878)"
+         transform="translate(-1784.9149,-1827.7038)"
          id="g273">
         <g
-           transform="scale(0.7578127421875) translate(0 0)"
+           transform="scale(0.75781274)"
            id="g272">
           <g
-             transform="translate(0 0)"
              id="g271">
             <g
                font-family="sans-serif"
-               font-size="100"
+               font-size="100px"
                font-weight="bold"
                fill="#000000"
                text-anchor="middle"
@@ -2810,7 +2781,7 @@
               <text
                  xml:space="preserve"
                  x="0"
-                 y="28.3935546875"
+                 y="28.393555"
                  stroke="none"
                  id="text269">mRNA</text>
             </g>
@@ -2827,8 +2798,8 @@
          stroke-width="5"
          id="g275">
         <circle
-           cx="-2922.20391079785"
-           cy="-1910.6949074881709"
+           cx="-2922.2039"
+           cy="-1910.6949"
            r="132.5"
            id="circle274" />
       </g>
@@ -2867,8 +2838,8 @@
          stroke-width="5"
          id="g281">
         <circle
-           cx="-3598.4649457767814"
-           cy="-1608.9482126771727"
+           cx="-3598.4648"
+           cy="-1608.9482"
            r="132.5"
            id="circle280" />
       </g>
@@ -2907,8 +2878,8 @@
          stroke-width="5"
          id="g287">
         <circle
-           cx="-3298.2047396463445"
-           cy="-2129.014145186193"
+           cx="-3298.2048"
+           cy="-2129.0142"
            r="132.5"
            id="circle286" />
       </g>
@@ -2947,8 +2918,8 @@
          stroke-width="5"
          id="g293">
         <circle
-           cx="-3598.4649457767814"
-           cy="66.2842005340869"
+           cx="-3598.4648"
+           cy="66.284203"
            r="132.5"
            id="circle292" />
       </g>
@@ -2987,23 +2958,22 @@
          stroke-width="5"
          id="g299">
         <circle
-           cx="-2535.890939669664"
-           cy="66.28420053408664"
+           cx="-2535.8909"
+           cy="66.284203"
            r="162.5"
            id="circle298" />
       </g>
       <g
-         transform="translate(-2535.890939669664 66.28420053408664)"
+         transform="translate(-2535.8909,66.284201)"
          id="g303">
         <g
-           transform="scale(0.7968752031249999) translate(0 0)"
+           transform="scale(0.7968752)"
            id="g302">
           <g
-             transform="translate(0 0)"
              id="g301">
             <g
                font-family="sans-serif"
-               font-size="100"
+               font-size="100px"
                font-weight="bold"
                fill="#000000"
                text-anchor="middle"
@@ -3011,13 +2981,13 @@
               <text
                  xml:space="preserve"
                  x="0"
-                 y="-31.6064453125"
+                 y="-31.606445"
                  stroke="none"
                  id="text299">tsRNA</text>
               <text
                  xml:space="preserve"
                  x="0"
-                 y="88.3935546875"
+                 y="88.393555"
                  stroke="none"
                  text-anchor="middle"
                  id="text300">&amp; tRF</text>
@@ -3035,8 +3005,8 @@
          stroke-width="5"
          id="g305">
         <circle
-           cx="-1207.4058842791862"
-           cy="-1259.9413480330338"
+           cx="-1207.4059"
+           cy="-1259.9414"
            r="137.5"
            id="circle304" />
       </g>
@@ -3095,8 +3065,8 @@
          stroke-width="5"
          id="g311">
         <circle
-           cx="-2721.1681584187413"
-           cy="-2217.6810482939723"
+           cx="-2721.1682"
+           cy="-2217.6812"
            r="132.5"
            id="circle310" />
       </g>
@@ -3135,8 +3105,8 @@
          stroke-width="5"
          id="g317">
         <circle
-           cx="-4067.0593781756747"
-           cy="66.28420053408664"
+           cx="-4067.0593"
+           cy="66.284203"
            r="132.5"
            id="circle316" />
       </g>
@@ -3175,8 +3145,8 @@
          stroke-width="5"
          id="g323">
         <circle
-           cx="-1784.9149132852997"
-           cy="-2471.5985366776304"
+           cx="-1784.9149"
+           cy="-2471.5986"
            r="132.5"
            id="circle322" />
       </g>
@@ -3210,28 +3180,27 @@
        class="node"
        id="g334">
       <g
-         fill="#D1C2FA"
+         fill="#d1c2fa"
          stroke="#00008b"
          stroke-width="5"
          id="g329">
         <circle
-           cx="314.59456066367943"
-           cy="-452.3822687750504"
+           cx="314.59457"
+           cy="-452.38226"
            r="132.5"
            id="circle328" />
       </g>
       <g
-         transform="translate(314.59456066367943 -452.3822687750504)"
+         transform="translate(314.59456,-452.38227)"
          id="g333">
         <g
-           transform="scale(0.65625034375) translate(0 0)"
+           transform="scale(0.65625034)"
            id="g332">
           <g
-             transform="translate(0 0)"
              id="g331">
             <g
                font-family="sans-serif"
-               font-size="100"
+               font-size="100px"
                font-weight="bold"
                fill="#000000"
                text-anchor="middle"
@@ -3258,23 +3227,22 @@
          stroke-width="5"
          id="g335">
         <circle
-           cx="-2820.0729534073075"
-           cy="-1537.9031836297645"
+           cx="-2820.073"
+           cy="-1537.9032"
            r="132.5"
            id="circle334" />
       </g>
       <g
-         transform="translate(-2820.0729534073075 -1537.9031836297645)"
+         transform="translate(-2820.073,-1537.9032)"
          id="g339">
         <g
-           transform="scale(0.71875028125) translate(0 0)"
+           transform="scale(0.71875028)"
            id="g338">
           <g
-             transform="translate(0 0)"
              id="g337">
             <g
                font-family="sans-serif"
-               font-size="100"
+               font-size="100px"
                font-weight="bold"
                fill="#000000"
                text-anchor="middle"
@@ -3282,13 +3250,13 @@
               <text
                  xml:space="preserve"
                  x="0"
-                 y="-31.6064453125"
+                 y="-31.606445"
                  stroke="none"
                  id="text335">ribo-</text>
               <text
                  xml:space="preserve"
                  x="0"
-                 y="88.3935546875"
+                 y="88.393555"
                  stroke="none"
                  text-anchor="middle"
                  id="text336">zyme</text>
@@ -3306,8 +3274,8 @@
          stroke-width="5"
          id="g341">
         <circle
-           cx="-1784.9149132852997"
-           cy="66.2842005340869"
+           cx="-1784.9149"
+           cy="66.284203"
            r="132.5"
            id="circle340" />
       </g>
@@ -3359,23 +3327,21 @@
          stroke-width="5"
          id="g347">
         <circle
-           cx="-2353.264339208072"
-           cy="-713.2286860817863"
+           cx="-2353.2644"
+           cy="-713.2287"
            r="152.5"
            id="circle346" />
       </g>
       <g
-         transform="translate(-2353.264339208072 -713.2286860817863)"
+         transform="translate(-2353.2643,-713.22869)"
          id="g351">
         <g
-           transform="scale(1) translate(0 0)"
            id="g350">
           <g
-             transform="translate(0 0)"
              id="g349">
             <g
                font-family="sans-serif"
-               font-size="60"
+               font-size="60px"
                font-weight="bold"
                fill="#000000"
                text-anchor="middle"
@@ -3383,13 +3349,13 @@
               <text
                  xml:space="preserve"
                  x="0"
-                 y="-18.9638671875"
+                 y="-18.963867"
                  stroke="none"
                  id="text347">pseudo-</text>
               <text
                  xml:space="preserve"
                  x="0"
-                 y="53.0361328125"
+                 y="53.036133"
                  stroke="none"
                  text-anchor="middle"
                  id="text348">gene</text>
@@ -3407,8 +3373,8 @@
          stroke-width="5"
          id="g353">
         <circle
-           cx="-565.2428709981116"
-           cy="43.386805439876866"
+           cx="-565.24286"
+           cy="43.386806"
            r="132.5"
            id="circle352" />
       </g>
@@ -3442,18 +3408,18 @@
        class="node"
        id="g364">
       <g
-         fill="#D1C2FA"
+         fill="#d1c2fa"
          stroke="#00008b"
          stroke-width="5"
          id="g359">
         <circle
-           cx="-1418.3442008997565"
-           cy="-675.7418455596502"
+           cx="-1418.3442"
+           cy="-675.74182"
            r="132.5"
            id="circle358" />
       </g>
       <g
-         transform="translate(-1418.3442008997565 -675.7418455596502)"
+         transform="translate(-1418.3442,-675.74185)"
          id="g363">
         <g
            transform="matrix(0.58177625,0,0,0.60546914,-0.9974615,0)"
@@ -3482,28 +3448,27 @@
        class="node"
        id="g370">
       <g
-         fill="#B0CDF1"
+         fill="#b0cdf1"
          stroke="#8b0000"
          stroke-width="5"
          id="g365">
         <circle
-           cx="-2922.20391079785"
-           cy="-675.7418455596502"
+           cx="-2922.2039"
+           cy="-675.74182"
            r="142.5"
            id="circle364" />
       </g>
       <g
-         transform="translate(-2922.20391079785 -675.7418455596502)"
+         transform="translate(-2922.2039,-675.74185)"
          id="g369">
         <g
-           transform="scale(0.7070315429687499) translate(0 0)"
+           transform="scale(0.70703154)"
            id="g368">
           <g
-             transform="translate(0 0)"
              id="g367">
             <g
                font-family="sans-serif"
-               font-size="100"
+               font-size="100px"
                font-weight="bold"
                fill="#000000"
                text-anchor="middle"
@@ -3511,13 +3476,13 @@
               <text
                  xml:space="preserve"
                  x="0"
-                 y="-31.6064453125"
+                 y="-31.606445"
                  stroke="none"
                  id="text365">amino</text>
               <text
                  xml:space="preserve"
                  x="0"
-                 y="88.3935546875"
+                 y="88.393555"
                  stroke="none"
                  text-anchor="middle"
                  id="text366">acid</text>
@@ -3530,13 +3495,13 @@
        class="node"
        id="g376">
       <g
-         fill="#A9E3B4"
+         fill="#a9e3b4"
          stroke="#000000"
          stroke-width="5"
          id="g371">
         <circle
-           cx="-4067.0593781756747"
-           cy="-452.3822687750504"
+           cx="-4067.0593"
+           cy="-452.38226"
            r="132.5"
            id="circle370" />
       </g>
@@ -3570,28 +3535,27 @@
        class="node"
        id="g382">
       <g
-         fill="#C9F2F1"
+         fill="#c9f2f1"
          stroke="#00008b"
          stroke-width="5"
          id="g377">
         <circle
-           cx="-1938.2666492462188"
-           cy="-1288.5238881557264"
+           cx="-1938.2666"
+           cy="-1288.5239"
            r="137.5"
            id="circle376" />
       </g>
       <g
-         transform="translate(-1938.2666492462188 -1288.5238881557264)"
+         transform="translate(-1938.2666,-1288.5239)"
          id="g381">
         <g
-           transform="scale(0.7968752031249999) translate(0 0)"
+           transform="scale(0.7968752)"
            id="g380">
           <g
-             transform="translate(0 0)"
              id="g379">
             <g
                font-family="sans-serif"
-               font-size="100"
+               font-size="100px"
                font-weight="bold"
                fill="#000000"
                text-anchor="middle"
@@ -3599,13 +3563,13 @@
               <text
                  xml:space="preserve"
                  x="0"
-                 y="-31.6064453125"
+                 y="-31.606445"
                  stroke="none"
                  id="text377">viral</text>
               <text
                  xml:space="preserve"
                  x="0"
-                 y="88.3935546875"
+                 y="88.393555"
                  stroke="none"
                  text-anchor="middle"
                  id="text378">RNA</text>
@@ -3623,8 +3587,8 @@
          stroke-width="5"
          id="g383">
         <circle
-           cx="-3237.60192437127"
-           cy="-855.023579688987"
+           cx="-3237.6018"
+           cy="-855.02356"
            r="132.5"
            id="circle382" />
       </g>
@@ -3709,12 +3673,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Layer 1">
-    <g
-       transform="rotate(-13.876607,11679.737,-14334.865)"
-       id="g29">
-      <g
-         id="g28" />
-    </g>
     <g
        transform="rotate(-13.876607,11774.487,-13558.292)"
        fill="#ffffff"
