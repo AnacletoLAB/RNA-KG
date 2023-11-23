@@ -66,7 +66,7 @@ Get In Touch or Get Involved
 
 Contact Us
 ==========
-Don't hesitate to contact us, especially if you believe a new data source should be integrated into RNA-KG. To get in touch with us, please join or start a new `Discussion`_, `create an issue`_ or `send us an email`_ 📩. 
+Don't hesitate to contact us, especially if you believe a new data source should be integrated into RNA-KG. To get in touch with us, please `create an issue`_ or `send us an email`_ 📩. 
 
 ***********
 Future work
