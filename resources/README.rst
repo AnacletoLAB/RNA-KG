@@ -18,15 +18,15 @@ RNA-KG is a knowledge graph encompassing biological knowledge about RNAs gathere
         - `TarBase <https://dianalab.e-ce.uth.gr/html/diana/web/index.php?r=tarbasev8/index>`_
         - `miRTarBase <https://mirtarbase.cuhk.edu.cn/~miRTarBase/miRTarBase_2022/php/index.php>`_
         - `SM2miR <>`_
-        - `TransmiR <>`_
+        - `TransmiR <https://www.cuilab.cn/transmir>`_
         - `PolymiRTS <>`_
         - `dbDEMC <https://www.biosino.org/dbDEMC/index>`_
-        - `TAM <>`_
-        - `PuTmiR <>`_
-        - `miRPathDB <>`_
+        - `TAM <http://www.lirmed.com/tam2/>`_
+        - `PuTmiR <https://www.isical.ac.in/~bioinfo_miu/TF-miRNA1.php>`_
+        - `miRPathDB <https://mpd.bioinf.uni-sb.de/overview.html>`_
         - `miRCancer <http://mircancer.ecu.edu/>`_
         - `miRdSNP <http://mirdsnp.ccr.buffalo.edu/index.php>`_
-        - `miRandola <>`_
+        - `miRandola <http://mirandola.iit.cnr.it/index.php>`_
 
     - mRNA Vaccine Database:
         - `DrugBank <>`_
@@ -40,20 +40,20 @@ RNA-KG is a knowledge graph encompassing biological knowledge about RNAs gathere
         - `DrugBank <>`_
 
     - ASO Databases:
-        - `eSkip-Finder <>`_
-        - `DrugBank <>`_
+        - `eSkip-Finder <https://eskip-finder.org/cgi-bin/input.cgi>`_
+        - `DrugBank <https://go.drugbank.com/categories/DBCAT001709>`_
 
     - gRNA Database:
-        - `Addgene <>`_
+        - `Addgene <https://www.addgene.org/>`_
 
     - lncRNA Databases:
-        - `LncBook <>`_
-        - `LncRNADisease <>`_
+        - `LncBook <https://ngdc.cncb.ac.cn/lncbook/>`_
+        - `LncRNADisease <http://www.rnanut.net/lncrnadisease/>`_
         - `LncExpDB <>`_
-        - `dbEssLnc <>`_
-        - `lncATLAS <>`_
+        - `dbEssLnc <https://esslnc.pufengdu.org/home>`_
+        - `lncATLAS <https://lncatlas.crg.eu/>`_
         - `NONCODE <>`_
-        - `Lnc2Cancer <>`_
+        - `Lnc2Cancer <http://bio-bigdata.hrbmu.edu.cn/lnc2cancer/>`_
         - `LncRNAWiki <https://ngdc.cncb.ac.cn/lncrnawiki/>`_
 
     - Ribozyme Database:
@@ -67,15 +67,15 @@ RNA-KG is a knowledge graph encompassing biological knowledge about RNAs gathere
     	- `RSwitch <>`_
 
     - tRF Databases:
-    	- `tRFdb <>`_
-    	- `tsRFun <>`_
-    	- `MINTbase <>`_
+    	- `tRFdb <http://genome.bioch.virginia.edu/trfdb/index.php>`_
+    	- `tsRFun <https://rna.sysu.edu.cn/tsRFun/index.php>`_
+    	- `MINTbase <https://cm.jefferson.edu/MINTbase/>`_
 
     - snoRNA Database:
-    	- `snoDB <>`_
+    	- `snoDB <https://bioinfo-scottgroup.med.usherbrooke.ca/snoDB/>`_
 
     - tRNA Database:
-    	- `tRNAdb <>`_
+    	- `tRNAdb <http://trna.bioinf.uni-leipzig.de/DataOutput/>`_
 
     - InterRNA Databases:
     	- `RNAInter <>`_
