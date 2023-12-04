@@ -4,9 +4,6 @@ RNA-KG: An ontology-based KG for representing interactions involving RNA molecul
 
 RNA-KG is a knowledge graph encompassing biological knowledge about RNAs gathered from `more than 50 public databases`_, integrating functional relationships with genes, proteins, and chemicals and ontologically grounded biomedical concepts. RNA-KG can be both used by directly exploring and visualizing the KG, and by applying computational methods to analyze and infer bio-medical knowledge. RNA-KG is constantly maintained and updated with new experimental data. 
 
-..
-  📢 Please see our preprint 👉 https://arxiv.org/abs/
-
 |metagraph|
 
 What Does This Repository Provide?
@@ -16,6 +13,7 @@ Notebooks and pointers to (processed) data and ontologies to build the current r
 Releases
 =========
   - `Public SPARQL endpoint is available at the following link: http://fievel.anacleto.di.unimi.it:9999`
+  - Please see our preprint: https://arxiv.org/abs/2312.00183
   - `Data Access: https://doi.org/10.5281/zenodo.10078877`
 
 |
@@ -29,7 +27,7 @@ Generate RNA-KG current release
 
 Download Data
 =============
-RNA-KG is built and maintained using `PheKnowLator <https://github.com/callahantiff/PheKnowLator>`_. PheKnowLator requires three documents within the ``resources`` directory to run successfully . Please make sure the documents listed below are presented in the specified location prior to constructing RNA-KG. They can all be accessed at the following link: https://doi.org/10.5281/zenodo.10078877.
+RNA-KG is built and maintained using `PheKnowLator <https://github.com/callahantiff/PheKnowLator>`_. PheKnowLator requires three documents within the ``resources`` directory to run successfully. Please make sure the documents listed below are present in the specified location prior to constructing RNA-KG. They can all be accessed at the following link: https://doi.org/10.5281/zenodo.10078877.
 
 
 * `resources/resource_info.txt`_
@@ -94,16 +92,15 @@ Please cite the following paper if it was useful for your research:
 
 .. code:: bib
 
-  @incollection{Cavalleri2023,
-    doi = {10.1007/978-3-031-34953-9_13},
-    url = {https://doi.org/10.1007/978-3-031-34953-9_13},
-    year = {2023},
-    publisher = {Springer Nature Switzerland},
-    pages = {165--180},
-    author = {Emanuele Cavalleri and Sara Bonfitto and Alberto Cabri and Jessica Gliozzo and Paolo Perlasca and Mauricio Soto-Gomez and Gabriella Trucco and Elena Casiraghi and Giorgio Valentini and Marco Mesiti},
-    title = "{A Meta-Graph for the Construction of an RNA-Centered Knowledge Graph}",
-    booktitle = {Bioinformatics and Biomedical Engineering}
-  }
+  @misc{cavalleri2023rnakg,
+      title={RNA-KG: An ontology-based knowledge graph for representing interactions involving RNA molecules}, 
+      author={Emanuele Cavalleri and Alberto Cabri and Mauricio Soto-Gomez and Sara Bonfitto and Paolo Perlasca and Jessica Gliozzo and Tiffany J. Callahan and Justin Reese and Peter N Robinson and Elena Casiraghi and Giorgio Valentini and Marco Mesiti},
+      year={2023},
+      eprint={2312.00183},
+      archivePrefix={arXiv},
+      doi={10.48550/arXiv.2312.00183},
+      primaryClass={cs.CE}
+}
 
 .. |metagraph| image:: images/metagraph.png
     :target: https://raw.githubusercontent.com/AnacletoLAB/RNA-KG/main/images/metagraph.png
