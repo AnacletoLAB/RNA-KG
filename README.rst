@@ -100,7 +100,7 @@ Please cite the following paper if it was useful for your research:
       archivePrefix={arXiv},
       doi={10.48550/arXiv.2312.00183},
       primaryClass={cs.CE}
-}
+  }
 
 .. |metagraph| image:: images/metagraph.png
     :target: https://raw.githubusercontent.com/AnacletoLAB/RNA-KG/main/images/metagraph.png
