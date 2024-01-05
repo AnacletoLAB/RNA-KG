@@ -100,7 +100,8 @@ RNA-KG is a knowledge graph encompassing biological knowledge about RNAs gathere
         - `Sequence Ontology (SO) <http://www.sequenceontology.org/>`_
         - `Pathway Ontology (PW) <https://rgd.mcw.edu/rgdweb/ontology/search.html>`_
 
-******************************************
+------------
+
 For standardizing metadata, we considered:
     - `dbSNP <https://www.ncbi.nlm.nih.gov/snp/>`_
     - `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_
