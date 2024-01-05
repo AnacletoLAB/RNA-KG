@@ -17,9 +17,9 @@ RNA-KG is a knowledge graph encompassing biological knowledge about RNAs gathere
         - `SomamiR DB <https://compbio.uthsc.edu/SomamiR/>`_
         - `TarBase <https://dianalab.e-ce.uth.gr/html/diana/web/index.php?r=tarbasev8/index>`_
         - `miRTarBase <https://mirtarbase.cuhk.edu.cn/~miRTarBase/miRTarBase_2022/php/index.php>`_
-        - `SM2miR <>`_
+        - `SM2miR <http://www.jianglab.cn/SM2miR/>`_
         - `TransmiR <https://www.cuilab.cn/transmir>`_
-        - `PolymiRTS <>`_
+        - `PolymiRTS <https://compbio.uthsc.edu/miRSNP/>`_
         - `dbDEMC <https://www.biosino.org/dbDEMC/index>`_
         - `TAM <http://www.lirmed.com/tam2/>`_
         - `PuTmiR <https://www.isical.ac.in/~bioinfo_miu/TF-miRNA1.php>`_
@@ -29,15 +29,15 @@ RNA-KG is a knowledge graph encompassing biological knowledge about RNAs gathere
         - `miRandola <http://mirandola.iit.cnr.it/index.php>`_
 
     - mRNA Vaccine Database:
-        - `DrugBank <>`_
+        - `DrugBank <https://go.drugbank.com/categories/DBCAT005631>`_
 
     - siRNA Databases:
-        - `ICBP siRNA <>`_
-        - `DrugBank <>`_
+        - `ICBP siRNA <http://web.mit.edu/sirna/index.html>`_
+        - `DrugBank <https://go.drugbank.com/categories/DBCAT005484>`_
 
     - RNA Aptamer Databases:
-        - `Apta-Index <>`_
-        - `DrugBank <>`_
+        - `Apta-Index <https://www.aptagen.com/apta-index/>`_
+        - `DrugBank <https://go.drugbank.com/categories/DBCAT001641>`_
 
     - ASO Databases:
         - `eSkip-Finder <https://eskip-finder.org/cgi-bin/input.cgi>`_
@@ -49,22 +49,23 @@ RNA-KG is a knowledge graph encompassing biological knowledge about RNAs gathere
     - lncRNA Databases:
         - `LncBook <https://ngdc.cncb.ac.cn/lncbook/>`_
         - `LncRNADisease <http://www.rnanut.net/lncrnadisease/>`_
-        - `LncExpDB <>`_
+        - `LncExpDB <https://ngdc.cncb.ac.cn/lncexpdb/>`_
         - `dbEssLnc <https://esslnc.pufengdu.org/home>`_
         - `lncATLAS <https://lncatlas.crg.eu/>`_
-        - `NONCODE <>`_
+        - `NONCODE <http://www.noncode.org/index.php>`_
         - `Lnc2Cancer <http://bio-bigdata.hrbmu.edu.cn/lnc2cancer/>`_
         - `LncRNAWiki <https://ngdc.cncb.ac.cn/lncrnawiki/>`_
 
     - Ribozyme Database:
-        - `Ribocentre <>`_
+        - `Ribocentre <https://www.ribocentre.org/>`_
+        - `Rfam <http://rfamlive.xfam.org/>`_
 
     - Viral RNA Database:
-        - `ViroidDB <>`_
+        - `ViroidDB <https://viroids.org/>`_
 
     - Riboswitch Databases:
-    	- `TBDB <>`_
-    	- `RSwitch <>`_
+    	- `TBDB <https://tbdb.io/>`_
+    	- `RSwitch <https://penchovsky.atwebpages.com/applications.php?page=58>`_
 
     - tRF Databases:
     	- `tRFdb <http://genome.bioch.virginia.edu/trfdb/index.php>`_
@@ -78,23 +79,30 @@ RNA-KG is a knowledge graph encompassing biological knowledge about RNAs gathere
     	- `tRNAdb <http://trna.bioinf.uni-leipzig.de/DataOutput/>`_
 
     - InterRNA Databases:
-    	- `RNAInter <>`_
-    	- `RNALocate <>`_
-    	- `RNADisease <>`_
-    	- `ncRDeathDB <>`_
-    	- `cncRNADB <>`_
-    	- `ViRBase <>`_
-    	- `Vesiclepedia <>`_
-    	- `DirectRMDB <>`_
-    	- `Modomics <>`_
+    	- `RNAInter <http://www.rnainter.org/>`_
+    	- `RNALocate <http://www.rna-society.org/rnalocate/>`_
+    	- `RNADisease <http://www.rnadisease.org/>`_
+    	- `ncRDeathDB <https://www.rna-society.org/ncrdeathdb/>`_
+    	- `cncRNADB <http://www.rna-society.org/cncrnadb/>`_
+    	- `ViRBase <http://www.rna-society.org/virbase/>`_
+    	- `Vesiclepedia <http://microvesicles.org/>`_
+    	- `DirectRMDB <www.rnamd.org/directRMDB/index.html>`_
+    	- `Modomics <https://genesilico.pl/modomics/>`_
 
 - Ontologies:
-    	- `Gene Ontology (GO) <>`_
-        - `Mondo Disease Ontology (Mondo) <>`_
-        - `Vaccine Ontology (VO) <>`_
-        - `Chemical Entities of Biological Interest (ChEBI) <>`_
-        - `Uber-anatomy ontology (Uberon) <>`_
-        - `Cell Line Ontology (CLO) <>`_
-        - `PRotein Ontology (PRO) <>`_
-        - `Sequence Ontology (SO) <>`_
-        - `Pathway Ontology (PW) <>`_
+    	- `Gene Ontology (GO) <https://geneontology.org/>`_
+        - `Mondo Disease Ontology (Mondo) <https://mondo.monarchinitiative.org/>`_
+        - `Vaccine Ontology (VO) <https://violinet.org/vaccineontology/>`_
+        - `Chemical Entities of Biological Interest (ChEBI) <https://www.ebi.ac.uk/chebi/>`_
+        - `Uber-anatomy ontology (Uberon) <http://obophenotype.github.io/uberon/>`_
+        - `Cell Line Ontology (CLO) <http://www.clo-ontology.org/>`_
+        - `PRotein Ontology (PRO) <https://proconsortium.org/>`_
+        - `Sequence Ontology (SO) <http://www.sequenceontology.org/>`_
+        - `Pathway Ontology (PW) <https://rgd.mcw.edu/rgdweb/ontology/search.html>`_
+
+******************************************
+For standardizing metadata, we considered:
+    - `dbSNP <https://www.ncbi.nlm.nih.gov/snp/>`_
+    - `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_
+    - `NCI Thesaurus OBO Edition (NCIT) <https://github.com/NCI-Thesaurus/thesaurus-obo-edition>`_
+    - `Chemical Methods Ontology (CHMOD) <https://github.com/rsc-ontologies/rsc-cmo>`_
