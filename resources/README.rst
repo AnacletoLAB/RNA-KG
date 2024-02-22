@@ -75,8 +75,12 @@ RNA-KG is a knowledge graph encompassing biological knowledge about RNAs gathere
     - snoRNA Database:
     	- `snoDB <https://bioinfo-scottgroup.med.usherbrooke.ca/snoDB/>`_
 
-    - tRNA Database:
+    - tRNA Databases:
     	- `tRNAdb <http://trna.bioinf.uni-leipzig.de/DataOutput/>`_
+    	- `GtRNAdb <http://gtrnadb.ucsc.edu/GtRNAdb2/index.html>`_
+
+    - piRNA Database:
+    	- `piRBase <http://bigdata.ibp.ac.cn/piRBase/index.php>`_
 
     - InterRNA Databases:
     	- `RNAInter <http://www.rnainter.org/>`_
@@ -88,6 +92,7 @@ RNA-KG is a knowledge graph encompassing biological knowledge about RNAs gathere
     	- `Vesiclepedia <http://microvesicles.org/>`_
     	- `DirectRMDB <www.rnamd.org/directRMDB/index.html>`_
     	- `Modomics <https://genesilico.pl/modomics/>`_
+        - `The GO resource <https://geneontology.org/>`_ (GO annotations)
 
 - Ontologies:
     	- `Gene Ontology (GO) <https://geneontology.org/>`_
