@@ -55,8 +55,10 @@ RNA-KG is a knowledge graph encompassing biological knowledge about RNAs gathere
         - `NONCODE <http://www.noncode.org/index.php>`_
         - `Lnc2Cancer <http://bio-bigdata.hrbmu.edu.cn/lnc2cancer/>`_
         - `LncRNAWiki <https://ngdc.cncb.ac.cn/lncrnawiki/>`_
+        - `LncBase <https://diana.e-ce.uth.gr/lncbasev3>`_
+        - `TANRIC <https://www.tanric.org/>`_
 
-    - Ribozyme Database:
+    - Ribozyme Databases:
         - `Ribocentre <https://www.ribocentre.org/>`_
         - `Rfam <http://rfamlive.xfam.org/>`_
 
@@ -79,8 +81,10 @@ RNA-KG is a knowledge graph encompassing biological knowledge about RNAs gathere
     	- `tRNAdb <http://trna.bioinf.uni-leipzig.de/DataOutput/>`_
     	- `GtRNAdb <http://gtrnadb.ucsc.edu/GtRNAdb2/index.html>`_
 
-    - piRNA Database:
+    - piRNA Databases:
     	- `piRBase <http://bigdata.ibp.ac.cn/piRBase/index.php>`_
+    	- `iPiDA-GCN <http://bliulab.net/iPiDA-GCN/>`_
+    	- `TarpiD <https://tarpid.nitrkl.ac.in/tarpid_db/>`_
 
     - InterRNA Databases:
     	- `RNAInter <http://www.rnainter.org/>`_
