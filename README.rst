@@ -2,7 +2,7 @@
 RNA-KG: An ontology-based KG for representing interactions involving RNA molecules
 ***********************************************************************************
 
-RNA-KG is a knowledge graph encompassing biological knowledge about RNAs gathered from `more than 50 public databases`_, integrating functional relationships with genes, proteins, and chemicals and ontologically grounded biomedical concepts. RNA-KG can be both used by directly exploring and visualizing the KG, and by applying computational methods to analyze and infer bio-medical knowledge. RNA-KG is constantly maintained and updated with new experimental data. 
+RNA-KG is a knowledge graph encompassing biological knowledge about RNAs gathered from `more than 60 public databases`_, integrating functional relationships with genes, proteins, and chemicals and ontologically grounded biomedical concepts. RNA-KG can be both used by directly exploring and visualizing the KG, and by applying computational methods to analyze and infer bio-medical knowledge. RNA-KG is constantly maintained and updated with new experimental data. 
 
 |metagraph|
 
