@@ -103,7 +103,7 @@ Please cite the following paper if it was useful for your research:
   }
 
 .. |metagraph| image:: images/metagraph.png
-    :target: https://raw.githubusercontent.com/AnacletoLAB/RNA-KG/main/images/metagraph.png
+    :target: https://raw.githubusercontent.com/AnacletoLAB/RNA-KG/main/images/metagraph.pdf
     :alt: Metagraph
 
 .. _LICENSE.md: https://github.com/AnacletoLAB/RNA-KG/blob/main/LICENSE
