@@ -12,8 +12,9 @@ Notebooks and pointers to (processed) data and ontologies to build the current r
 
 Releases
 =========
-  - `Public SPARQL endpoint is available at the following link: http://fievel.anacleto.di.unimi.it:9999`
-  - Please see our preprint: https://arxiv.org/abs/2312.00183
+  - `RNA-KG's website is available at the following link: https://RNA-KG.anacleto.di.unimi.it`
+  - `Public SPARQL endpoint is available at the following link: https://blazegraph-RNA-KG.anacleto.di.unimi.it`
+  - Please see our paper: https://www.nature.com/articles/s41597-024-03673-7
   - `Data Access: https://doi.org/10.5281/zenodo.10078877`
 
 |
@@ -92,14 +93,19 @@ Please cite the following paper if it was useful for your research:
 
 .. code:: bib
 
-  @misc{cavalleri2023rnakg,
-      title={RNA-KG: An ontology-based knowledge graph for representing interactions involving RNA molecules}, 
-      author={Emanuele Cavalleri and Alberto Cabri and Mauricio Soto-Gomez and Sara Bonfitto and Paolo Perlasca and Jessica Gliozzo and Tiffany J. Callahan and Justin Reese and Peter N Robinson and Elena Casiraghi and Giorgio Valentini and Marco Mesiti},
-      year={2023},
-      eprint={2312.00183},
-      archivePrefix={arXiv},
-      doi={10.48550/arXiv.2312.00183},
-      primaryClass={cs.CE}
+  @article{Cavalleri2024rnakg,
+      title="An ontology-based knowledge graph for representing interactions involving RNA molecules", 
+      author="Emanuele Cavalleri and Alberto Cabri and Mauricio Soto-Gomez and Sara Bonfitto and Paolo Perlasca and Jessica Gliozzo and Tiffany J. Callahan and Justin Reese and Peter N Robinson and Elena Casiraghi and Giorgio Valentini and Marco Mesiti",
+      year="2024",
+      journal="Sci. Data",
+      publisher="Springer Science and Business Media LLC",
+      volume=11,
+      number=1,
+      pages="906",
+      month=aug,
+      year=2024,
+      copyright="https://creativecommons.org/licenses/by-nc-nd/4.0",
+      language="en"
   }
 
 .. |metagraph| image:: images/metagraph.png
@@ -112,7 +118,7 @@ Please cite the following paper if it was useful for your research:
 
 .. _`create an issue`: https://github.com/AnacletoLAB/RNA-KG/issues/new/choose
 
-.. _`more than 50 public databases`: https://github.com/AnacletoLAB/RNA-KG/tree/main/resources#readme
+.. _`more than 60 public databases`: https://github.com/AnacletoLAB/RNA-KG/tree/main/resources#readme
 
 .. _`Discussion`: https://github.com/AnacletoLAB/RNA-KG/discussions
 
