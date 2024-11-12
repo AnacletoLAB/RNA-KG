@@ -11,8 +11,8 @@ What Does This Repository Provide?
 Notebooks and pointers to (processed) data and ontologies to build the current release of RNA-KG.
 
 Releases
-=========
-  - `RNA-KG's website is available at the following link: https://RNA-KG.anacleto.di.unimi.it`
+========= 
+  - `RNA-KG's website is available at the following link: https://RNA-KG.anacleto.di.unimi.it. The list of RNA-KG nodes is stored in https://RNA-KG.anacleto.di.unimi.it/nodes.csv; the list of RNA-KG edges is stored in https://RNA-KG.anacleto.di.unimi.it/edges.csv`
   - `Public SPARQL endpoint is available at the following link: https://blazegraph-RNA-KG.anacleto.di.unimi.it`
   - Please see our paper: https://www.nature.com/articles/s41597-024-03673-7
   - `Data Access: https://doi.org/10.5281/zenodo.10078877`
@@ -74,7 +74,7 @@ Future work
 We are currently working on enhancing the proposed KG in different directions.
 
 - Application of Graph Representation Learning methods to analyze RNA-KG.
-- Identification of key (nodes and edges') properties associated with RNA molecules and their interactors ➞ *Neo4j* endpoint.
+- Identification of key (nodes and edges') properties associated with RNA molecules and their interactors ➞ ⚠️experimental⚠️ Neo4j endpoint available at http://fievel.anacleto.di.unimi.it:7474 (usr: anacleto; pwd: anacleto). The list of RNA-KG nodes including properties is stored in https://RNA-KG.anacleto.di.unimi.it/nodes_with_properties.csv; the list of RNA-KG edges including properties is stored in https://RNA-KG.anacleto.di.unimi.it/edges_with_properties.csv
 - Development of an RNA Ontology with a particular emphasis on non-coding RNA molecules.
 - Specification of our meta-graph in terms of LinkML ➞ `SPIRES engine (OntoGPT) <https://github.com/monarch-initiative/ontogpt>`_.
 - Development of graphical facilities for supporting the user in the data acquisition process and thus reducing the manual effort required for mapping the data available in the different data sources into RNA-KG.
