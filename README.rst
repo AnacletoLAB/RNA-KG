@@ -62,8 +62,9 @@ Finally, import the generated CSV files into Neo4j:
         --skip-bad-relationships \
         --multiline-fields=true
 
+
 **************************
-List of integrated sources _list-of-integrated-sources:
+List of integrated sources 
 **************************
 
 RNA-KG is a knowledge graph encompassing biological knowledge about RNAs gathered from 91 linked open data repositories and ontologies. Here, we list integrated sources and ontologies.  
