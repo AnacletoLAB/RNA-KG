@@ -76,7 +76,7 @@ Special thank to `DrugBank <https://go.drugbank.com/>`_ for liking this project 
 
 - Ontologies: `Gene Ontology (GO) <https://geneontology.org/>`_; `Mondo Disease Ontology (Mondo) <https://mondo.monarchinitiative.org/>`_; `Human Phenotype Ontology (HPO) <https://www.ebi.ac.uk/ols4/ontologies/hp>`_; `Vaccine Ontology (VO) <https://violinet.org/vaccineontology/>`_; `Chemical Entities of Biological Interest (ChEBI) <https://www.ebi.ac.uk/chebi/>`_; `Uber-anatomy ontology (Uberon) <http://obophenotype.github.io/uberon/>`_; `Cell Line Ontology (CLO) <http://www.clo-ontology.org/>`_; `PRotein Ontology (PRO) <https://proconsortium.org/>`_; `Sequence Ontology (SO) <http://www.sequenceontology.org/>`_; `Pathway Ontology (PW) <https://rgd.mcw.edu/rgdweb/ontology/search.html>`_; `Relations Ontology (RO) <https://github.com/oborel/obo-relations/>`_
 
-For standardizing properties, we also considered: `dbSNP <https://www.ncbi.nlm.nih.gov/snp/>`_; `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_; `NCI Thesaurus OBO Edition (NCIT) <https://github.com/NCI-Thesaurus/thesaurus-obo-edition>`_; `Chemical Methods Ontology (CHMOD) <https://github.com/rsc-ontologies/rsc-cmo>`_
+For standardizing properties, we also considered: `dbSNP <https://www.ncbi.nlm.nih.gov/snp/>`_; `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_; `NCI Thesaurus OBO Edition (NCIT) <https://github.com/NCI-Thesaurus/thesaurus-obo-edition>`_; `Chemical Methods Ontology (CHMOD) <https://github.com/rsc-ontologies/rsc-cmo>`_; `Cellosaurus <https://www.cellosaurus.org/>`_; `Disease Ontology (DO) <https://disease-ontology.org/>`_; `OMIM <https://www.omim.org/>`_; `NCBI organismal classification (NCBItaxon) <https://www.ebi.ac.uk/ols4/ontologies/ncbitaxon>`_
 
 
 ******************************
