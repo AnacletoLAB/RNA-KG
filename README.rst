@@ -146,4 +146,4 @@ Please cite the following article if it was useful for your research:
 .. _`code`: https://github.com/AnacletoLAB/RNA-KG_homogeneous_emb_analysis
 .. _`SPIREX`: https://vldb.org/workshops/2024/proceedings/LLM+KG/LLM+KG-12.pdf
 .. _`more than 90 public databases`: https://github.com/AnacletoLAB/RNA-KG/tree/main/resources#readme
-.. _`Zenodo`: https://doi.org/10.5281/zenodo.11236947
+.. _`Zenodo`: https://doi.org/10.5281/zenodo.10078876
