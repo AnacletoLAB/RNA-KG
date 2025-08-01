@@ -23,10 +23,9 @@ Releases
 ========= 
 - RNA-KG v2.0 website: https://RNA-KG.biodata.di.unimi.it  
 - Public Neo4j endpoint: https://neo4j.biodata.di.unimi.it (`usr`: rnakgv20, `pwd`: rnakgv20)
-- Database dump: https://RNA-KG.biodata.di.unimi.it/rnakgv20.dump; raw nodes list: https://RNA-KG.biodata.di.unimi.it/nodes.csv; raw edges list: https://RNA-KG.biodata.di.unimi.it/edges.csv    
+- Database dump: https://RNA-KG.biodata.di.unimi.it/rnakgv20.dump; raw nodes list: https://RNA-KG.biodata.di.unimi.it/nodes.csv; raw edges list: https://RNA-KG.biodata.di.unimi.it/edges.csv (raw data are available on `Zenodo`_)    
 - RNA-KG v2.0 API docs: https://RNA-KG.biodata.di.unimi.it/api/v1/docs  
-- RNA-KG v1.0 paper: https://www.nature.com/articles/s41597-024-03673-7; data: https://doi.org/10.5281/zenodo.10078877 
-- RNA-KG v2.0 pre-print: https://www.arxiv.com/xx; data: dataverse TBA
+- RNA-KG v2.0 pre-print: https://www.arxiv.com/xx; RNA-KG v1.0 paper: https://www.nature.com/articles/s41597-024-03673-7
 
 |
 
@@ -147,3 +146,4 @@ Please cite the following article if it was useful for your research:
 .. _`code`: https://github.com/AnacletoLAB/RNA-KG_homogeneous_emb_analysis
 .. _`SPIREX`: https://vldb.org/workshops/2024/proceedings/LLM+KG/LLM+KG-12.pdf
 .. _`more than 90 public databases`: https://github.com/AnacletoLAB/RNA-KG/tree/main/resources#readme
+.. _`Zenodo`: https://doi.org/10.5281/zenodo.11236947
