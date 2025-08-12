@@ -25,7 +25,7 @@ Releases
 - Public Neo4j endpoint: https://neo4j.biodata.di.unimi.it (`usr`: rnakgv20, `pwd`: rnakgv20)
 - Database dump: https://RNA-KG.biodata.di.unimi.it/rnakgv20.dump; raw nodes list: https://RNA-KG.biodata.di.unimi.it/nodes.csv; raw edges list: https://RNA-KG.biodata.di.unimi.it/edges.csv (raw data are available on `Zenodo`_)    
 - RNA-KG v2.0 API docs: https://RNA-KG.biodata.di.unimi.it/api/v1/docs  
-- RNA-KG v2.0 pre-print: https://www.arxiv.com/xx; RNA-KG v1.0 paper: https://www.nature.com/articles/s41597-024-03673-7
+- RNA-KG v2.0 pre-print: https://arxiv.org/abs/2508.07427; RNA-KG v1.0 paper: https://www.nature.com/articles/s41597-024-03673-7
 
 |
 
@@ -110,7 +110,7 @@ This project is licensed under Apache License 2.0 - see the `LICENSE.md`_ file f
 
 Citing RNA-KG
 =================
-Please cite the following article if it was useful for your research:
+Please cite the following articles if RNA-KG was useful for your research:
 
 .. code:: bib
 
@@ -129,6 +129,18 @@ Please cite the following article if it was useful for your research:
       language="en"
   }
 
+.. code:: bib
+
+    @misc{Cavalleri2025rnakgv20,
+      title={RNA-KG v2.0: An RNA-centered Knowledge Graph with Properties}, 
+      author={Emanuele Cavalleri and Paolo Perlasca and Marco Mesiti},
+      year={2025},
+      eprint={2508.07427},
+      archivePrefix={arXiv},
+      primaryClass={cs.DB},
+      url={https://arxiv.org/abs/2508.07427}, 
+    }
+
 .. |metagraph| image:: images/metagraph.png
     :target: https://raw.githubusercontent.com/AnacletoLAB/RNA-KG/main/images/metagraph.png
     :alt: Metagraph
@@ -138,9 +150,9 @@ Please cite the following article if it was useful for your research:
     :alt: Sample
 
 .. _LICENSE.md: https://github.com/AnacletoLAB/RNA-KG/blob/main/LICENSE
-.. _`send us an email`: mailto:emanuele.cavalleri@unimi.it
+.. _`send us an email`: mailto:emanuele.cavalleri@unimi.it?cc=marco.mesiti@unimi.it
 .. _`RNA-KG v1.0 article`: https://www.nature.com/articles/s41597-024-03673-7
-.. _`RNA-KG v2.0 pre-print`: https://arxiv.com
+.. _`RNA-KG v2.0 pre-print`: https://arxiv.org/abs/2508.07427
 .. _`create an issue`: https://github.com/AnacletoLAB/RNA-KG/issues/new/choose
 .. _`article`: https://doi.org/10.1093/bioadv/vbaf109
 .. _`code`: https://github.com/AnacletoLAB/RNA-KG_homogeneous_emb_analysis
