@@ -126,20 +126,31 @@ Please cite the following articles if RNA-KG was useful for your research:
       month=aug,
       year=2024,
       copyright="https://creativecommons.org/licenses/by-nc-nd/4.0",
-      language="en"
+      language="en",
+      url = {https://doi.org/10.1038/s41597-024-03673-7},
+      doi = {10.1038/s41597-024-03673-7}
   }
 
 .. code:: bib
 
-    @misc{Cavalleri2025rnakgv20,
-      title={RNA-KG v2.0: An RNA-centered Knowledge Graph with Properties}, 
-      author={Emanuele Cavalleri and Paolo Perlasca and Marco Mesiti},
-      year={2025},
-      eprint={2508.07427},
-      archivePrefix={arXiv},
-      primaryClass={cs.DB},
-      url={https://arxiv.org/abs/2508.07427}, 
-    }
+  @article{Cavalleri2026rnakgv20,
+      author = {Cavalleri, Emanuele and Perlasca, Paolo and Mesiti, Marco},
+      title = {RNA-KG v2.0: an RNA-centered Knowledge Graph with Properties},
+      journal = {NAR Genomics and Bioinformatics},
+      volume = {8},
+      number = {1},
+      pages = {lqaf194},
+      year = {2026},
+      month = {01},
+      issn = {2631-9268},
+      doi = {10.1093/nargab/lqaf194},
+      url = {https://doi.org/10.1093/nargab/lqaf194},
+      eprint = {https://academic.oup.com/nargab/article-pdf/8/1/lqaf194/66356973/lqaf194.pdf},
+  }
+
+
+
+
 
 .. |metagraph| image:: images/metagraph.png
     :target: https://raw.githubusercontent.com/AnacletoLAB/RNA-KG/main/images/metagraph.png
