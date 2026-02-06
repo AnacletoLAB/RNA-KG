@@ -2,7 +2,7 @@
 RNA-KG v2.0: An ontology-based KG for representing interactions involving RNA molecules enriched with properties
 ****************************************************************************************************************
 
-RNA-KG is a knowledge graph encompassing biological knowledge about RNAs gathered from `more than 90 public databases <#list-of-integrated-sources>`_, integrating functional relationships with genes, proteins, and chemicals and ontologically grounded biomedical concepts. Relationships are characterized by standardized properties that capture the specific context (e.g., cell line, tissue, pathological state) in which they have been identified. In addition, the nodes are enriched with detailed attributes, such as descriptions, synonyms, and molecular sequences sourced from platforms such as OBO ontologies, NCBI repositories, RNAcentral, and Ensembl. RNA-KG can be both used by directly exploring and visualizing the KG, and by applying computational methods to analyze and infer bio-medical knowledge. RNA-KG is constantly maintained and updated with new experimental data. More details can be found in `RNA-KG v1.0 article`_ and `RNA-KG v2.0 pre-print`_.
+RNA-KG is a knowledge graph encompassing biological knowledge about RNAs gathered from `more than 90 public databases <#list-of-integrated-sources>`_, integrating functional relationships with genes, proteins, and chemicals and ontologically grounded biomedical concepts. Relationships are characterized by standardized properties that capture the specific context (e.g., cell line, tissue, pathological state) in which they have been identified. In addition, the nodes are enriched with detailed attributes, such as descriptions, synonyms, and molecular sequences sourced from platforms such as OBO ontologies, NCBI repositories, RNAcentral, and Ensembl. RNA-KG can be both used by directly exploring and visualizing the KG, and by applying computational methods to analyze and infer bio-medical knowledge. RNA-KG is constantly maintained and updated with new experimental data. More details can be found in `RNA-KG v1.0`_ and `RNA-KG v2.0`_ articles.
 
 ****************************************************************************************************************
 
@@ -17,7 +17,7 @@ RNA-KG is a knowledge graph encompassing biological knowledge about RNAs gathere
 What Does This Repository Provide?
 ===================================
 - Notebooks and pointers to processed data and ontologies to build the current release of RNA-KG.
-- Code for reproducing experiments described in the `RNA-KG v2.0 pre-print`_ (Applications and Use Cases section).
+- Code for reproducing experiments described in the `RNA-KG v2.0`_ article (Applications and Use Cases section).
 
 Releases
 ========= 
@@ -25,7 +25,7 @@ Releases
 - Public Neo4j endpoint: https://neo4j.biodata.di.unimi.it (`usr`: rnakgv20, `pwd`: rnakgv20)
 - Database dump: https://RNA-KG.biodata.di.unimi.it/rnakgv20.dump; raw nodes list: https://RNA-KG.biodata.di.unimi.it/nodes.csv; raw edges list: https://RNA-KG.biodata.di.unimi.it/edges.csv (raw data are available on `Zenodo`_)    
 - RNA-KG v2.0 API docs: https://RNA-KG.biodata.di.unimi.it/api/v1/docs  
-- RNA-KG v2.0 pre-print: https://arxiv.org/abs/2508.07427; RNA-KG v1.0 paper: https://www.nature.com/articles/s41597-024-03673-7
+- RNA-KG v2.0 article: https://doi.org/10.1093/nargab/lqaf194; RNA-KG v1.0 article: https://www.nature.com/articles/s41597-024-03673-7
 
 |
 
@@ -162,8 +162,8 @@ Please cite the following articles if RNA-KG was useful for your research:
 
 .. _LICENSE.md: https://github.com/AnacletoLAB/RNA-KG/blob/main/LICENSE
 .. _`send us an email`: mailto:emanuele.cavalleri@unimi.it?cc=marco.mesiti@unimi.it
-.. _`RNA-KG v1.0 article`: https://www.nature.com/articles/s41597-024-03673-7
-.. _`RNA-KG v2.0 pre-print`: https://arxiv.org/abs/2508.07427
+.. _`RNA-KG v1.0`: https://www.nature.com/articles/s41597-024-03673-7
+.. _`RNA-KG v2.0`: https://doi.org/10.1093/nargab/lqaf194
 .. _`create an issue`: https://github.com/AnacletoLAB/RNA-KG/issues/new/choose
 .. _`article`: https://doi.org/10.1093/bioadv/vbaf109
 .. _`code`: https://github.com/AnacletoLAB/RNA-KG_homogeneous_emb_analysis
